@@ -1,0 +1,751 @@
+lecturer_id,course_id,program,domain,expertise_tier
+DSN-01-001,C101,Agribusiness Analytics,Quantitative,Primary
+DSN-01-001,C104,Agribusiness Analytics,Quantitative,Primary
+DSN-01-001,C109,Agribusiness Analytics,Quantitative,Primary
+DSN-01-001,C111,Agribusiness Analytics,Quantitative,Primary
+DSN-01-001,C115,Agribusiness Analytics,Quantitative,Primary
+DSN-01-001,C117,Agribusiness Analytics,Quantitative,Primary
+DSN-01-001,C120,Agribusiness Analytics,Engineering,Secondary
+DSN-01-002,C101,Agribusiness Analytics,Quantitative,Primary
+DSN-01-002,C102,Agribusiness Analytics,Business,Secondary
+DSN-01-002,C103,Agribusiness Analytics,Business,Secondary
+DSN-01-002,C104,Agribusiness Analytics,Quantitative,Primary
+DSN-01-002,C107,Agribusiness Analytics,Business,Secondary
+DSN-01-002,C108,Agribusiness Analytics,Business,Secondary
+DSN-01-002,C109,Agribusiness Analytics,Quantitative,Primary
+DSN-01-002,C111,Agribusiness Analytics,Quantitative,Primary
+DSN-01-002,C115,Agribusiness Analytics,Quantitative,Primary
+DSN-01-002,C117,Agribusiness Analytics,Quantitative,Primary
+DSN-01-002,C118,Agribusiness Analytics,Business,Secondary
+DSN-01-003,C105,Agribusiness Analytics,Computing,Primary
+DSN-01-003,C106,Agribusiness Analytics,Computing,Primary
+DSN-01-003,C110,Agribusiness Analytics,Computing,Primary
+DSN-01-003,C112,Agribusiness Analytics,Computing,Primary
+DSN-01-003,C113,Agribusiness Analytics,Agriculture,Secondary
+DSN-01-003,C114,Agribusiness Analytics,Computing,Primary
+DSN-01-003,C116,Agribusiness Analytics,Computing,Primary
+DSN-01-003,C119,Agribusiness Analytics,Computing,Primary
+DSN-01-004,C102,Agribusiness Analytics,Business,Secondary
+DSN-01-004,C103,Agribusiness Analytics,Business,Secondary
+DSN-01-004,C105,Agribusiness Analytics,Computing,Primary
+DSN-01-004,C106,Agribusiness Analytics,Computing,Primary
+DSN-01-004,C107,Agribusiness Analytics,Business,Secondary
+DSN-01-004,C108,Agribusiness Analytics,Business,Secondary
+DSN-01-004,C110,Agribusiness Analytics,Computing,Primary
+DSN-01-004,C112,Agribusiness Analytics,Computing,Primary
+DSN-01-004,C114,Agribusiness Analytics,Computing,Primary
+DSN-01-004,C116,Agribusiness Analytics,Computing,Primary
+DSN-01-004,C118,Agribusiness Analytics,Business,Secondary
+DSN-01-004,C119,Agribusiness Analytics,Computing,Primary
+DSN-01-005,C101,Agribusiness Analytics,Quantitative,Primary
+DSN-01-005,C104,Agribusiness Analytics,Quantitative,Primary
+DSN-01-005,C105,Agribusiness Analytics,Computing,Secondary
+DSN-01-005,C106,Agribusiness Analytics,Computing,Secondary
+DSN-01-005,C109,Agribusiness Analytics,Quantitative,Primary
+DSN-01-005,C110,Agribusiness Analytics,Computing,Secondary
+DSN-01-005,C111,Agribusiness Analytics,Quantitative,Primary
+DSN-01-005,C112,Agribusiness Analytics,Computing,Secondary
+DSN-01-005,C114,Agribusiness Analytics,Computing,Secondary
+DSN-01-005,C115,Agribusiness Analytics,Quantitative,Primary
+DSN-01-005,C116,Agribusiness Analytics,Computing,Secondary
+DSN-01-005,C117,Agribusiness Analytics,Quantitative,Primary
+DSN-01-005,C119,Agribusiness Analytics,Computing,Secondary
+DSN-01-006,C102,Agribusiness Analytics,Business,Primary
+DSN-01-006,C103,Agribusiness Analytics,Business,Primary
+DSN-01-006,C105,Agribusiness Analytics,Computing,Secondary
+DSN-01-006,C106,Agribusiness Analytics,Computing,Secondary
+DSN-01-006,C107,Agribusiness Analytics,Business,Primary
+DSN-01-006,C108,Agribusiness Analytics,Business,Primary
+DSN-01-006,C110,Agribusiness Analytics,Computing,Secondary
+DSN-01-006,C112,Agribusiness Analytics,Computing,Secondary
+DSN-01-006,C114,Agribusiness Analytics,Computing,Secondary
+DSN-01-006,C116,Agribusiness Analytics,Computing,Secondary
+DSN-01-006,C118,Agribusiness Analytics,Business,Primary
+DSN-01-006,C119,Agribusiness Analytics,Computing,Secondary
+DSN-01-007,C101,Agribusiness Analytics,Quantitative,Primary
+DSN-01-007,C104,Agribusiness Analytics,Quantitative,Primary
+DSN-01-007,C105,Agribusiness Analytics,Computing,Secondary
+DSN-01-007,C106,Agribusiness Analytics,Computing,Secondary
+DSN-01-007,C109,Agribusiness Analytics,Quantitative,Primary
+DSN-01-007,C110,Agribusiness Analytics,Computing,Secondary
+DSN-01-007,C111,Agribusiness Analytics,Quantitative,Primary
+DSN-01-007,C112,Agribusiness Analytics,Computing,Secondary
+DSN-01-007,C114,Agribusiness Analytics,Computing,Secondary
+DSN-01-007,C115,Agribusiness Analytics,Quantitative,Primary
+DSN-01-007,C116,Agribusiness Analytics,Computing,Secondary
+DSN-01-007,C117,Agribusiness Analytics,Quantitative,Primary
+DSN-01-007,C119,Agribusiness Analytics,Computing,Secondary
+DSN-01-008,C105,Agribusiness Analytics,Computing,Secondary
+DSN-01-008,C106,Agribusiness Analytics,Computing,Secondary
+DSN-01-008,C110,Agribusiness Analytics,Computing,Secondary
+DSN-01-008,C112,Agribusiness Analytics,Computing,Secondary
+DSN-01-008,C113,Agribusiness Analytics,Agriculture,Primary
+DSN-01-008,C114,Agribusiness Analytics,Computing,Secondary
+DSN-01-008,C116,Agribusiness Analytics,Computing,Secondary
+DSN-01-008,C119,Agribusiness Analytics,Computing,Secondary
+DSN-01-009,C102,Agribusiness Analytics,Business,Primary
+DSN-01-009,C103,Agribusiness Analytics,Business,Primary
+DSN-01-009,C107,Agribusiness Analytics,Business,Primary
+DSN-01-009,C108,Agribusiness Analytics,Business,Primary
+DSN-01-009,C113,Agribusiness Analytics,Agriculture,Secondary
+DSN-01-009,C118,Agribusiness Analytics,Business,Primary
+DSN-01-010,C102,Agribusiness Analytics,Business,Primary
+DSN-01-010,C103,Agribusiness Analytics,Business,Primary
+DSN-01-010,C107,Agribusiness Analytics,Business,Primary
+DSN-01-010,C108,Agribusiness Analytics,Business,Primary
+DSN-01-010,C113,Agribusiness Analytics,Agriculture,Secondary
+DSN-01-010,C118,Agribusiness Analytics,Business,Primary
+DSN-01-011,C101,Agribusiness Analytics,Quantitative,Primary
+DSN-01-011,C104,Agribusiness Analytics,Quantitative,Primary
+DSN-01-011,C109,Agribusiness Analytics,Quantitative,Primary
+DSN-01-011,C111,Agribusiness Analytics,Quantitative,Primary
+DSN-01-011,C115,Agribusiness Analytics,Quantitative,Primary
+DSN-01-011,C117,Agribusiness Analytics,Quantitative,Primary
+DSN-01-011,C120,Agribusiness Analytics,Engineering,Secondary
+DSN-01-012,C102,Agribusiness Analytics,Business,Primary
+DSN-01-012,C103,Agribusiness Analytics,Business,Primary
+DSN-01-012,C107,Agribusiness Analytics,Business,Primary
+DSN-01-012,C108,Agribusiness Analytics,Business,Primary
+DSN-01-012,C113,Agribusiness Analytics,Agriculture,Secondary
+DSN-01-012,C118,Agribusiness Analytics,Business,Primary
+DSN-01-013,C102,Agribusiness Analytics,Business,Primary
+DSN-01-013,C103,Agribusiness Analytics,Business,Primary
+DSN-01-013,C105,Agribusiness Analytics,Computing,Secondary
+DSN-01-013,C106,Agribusiness Analytics,Computing,Secondary
+DSN-01-013,C107,Agribusiness Analytics,Business,Primary
+DSN-01-013,C108,Agribusiness Analytics,Business,Primary
+DSN-01-013,C110,Agribusiness Analytics,Computing,Secondary
+DSN-01-013,C112,Agribusiness Analytics,Computing,Secondary
+DSN-01-013,C114,Agribusiness Analytics,Computing,Secondary
+DSN-01-013,C116,Agribusiness Analytics,Computing,Secondary
+DSN-01-013,C118,Agribusiness Analytics,Business,Primary
+DSN-01-013,C119,Agribusiness Analytics,Computing,Secondary
+DSN-01-014,C105,Agribusiness Analytics,Computing,Primary
+DSN-01-014,C106,Agribusiness Analytics,Computing,Primary
+DSN-01-014,C110,Agribusiness Analytics,Computing,Primary
+DSN-01-014,C112,Agribusiness Analytics,Computing,Primary
+DSN-01-014,C114,Agribusiness Analytics,Computing,Primary
+DSN-01-014,C116,Agribusiness Analytics,Computing,Primary
+DSN-01-014,C119,Agribusiness Analytics,Computing,Primary
+DSN-01-014,C120,Agribusiness Analytics,Engineering,Secondary
+DSN-01-015,C102,Agribusiness Analytics,Business,Primary
+DSN-01-015,C103,Agribusiness Analytics,Business,Primary
+DSN-01-015,C107,Agribusiness Analytics,Business,Primary
+DSN-01-015,C108,Agribusiness Analytics,Business,Primary
+DSN-01-015,C113,Agribusiness Analytics,Agriculture,Secondary
+DSN-01-015,C118,Agribusiness Analytics,Business,Primary
+DSN-01-016,C105,Agribusiness Analytics,Computing,Primary
+DSN-01-016,C106,Agribusiness Analytics,Computing,Primary
+DSN-01-016,C110,Agribusiness Analytics,Computing,Primary
+DSN-01-016,C112,Agribusiness Analytics,Computing,Primary
+DSN-01-016,C114,Agribusiness Analytics,Computing,Primary
+DSN-01-016,C116,Agribusiness Analytics,Computing,Primary
+DSN-01-016,C119,Agribusiness Analytics,Computing,Primary
+DSN-01-016,C120,Agribusiness Analytics,Engineering,Secondary
+DSN-01-017,C101,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-017,C102,Agribusiness Analytics,Business,Primary
+DSN-01-017,C103,Agribusiness Analytics,Business,Primary
+DSN-01-017,C104,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-017,C107,Agribusiness Analytics,Business,Primary
+DSN-01-017,C108,Agribusiness Analytics,Business,Primary
+DSN-01-017,C109,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-017,C111,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-017,C115,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-017,C117,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-017,C118,Agribusiness Analytics,Business,Primary
+DSN-01-018,C101,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-018,C104,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-018,C105,Agribusiness Analytics,Computing,Primary
+DSN-01-018,C106,Agribusiness Analytics,Computing,Primary
+DSN-01-018,C109,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-018,C110,Agribusiness Analytics,Computing,Primary
+DSN-01-018,C111,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-018,C112,Agribusiness Analytics,Computing,Primary
+DSN-01-018,C114,Agribusiness Analytics,Computing,Primary
+DSN-01-018,C115,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-018,C116,Agribusiness Analytics,Computing,Primary
+DSN-01-018,C117,Agribusiness Analytics,Quantitative,Secondary
+DSN-01-018,C119,Agribusiness Analytics,Computing,Primary
+DSN-01-019,C105,Agribusiness Analytics,Computing,Primary
+DSN-01-019,C106,Agribusiness Analytics,Computing,Primary
+DSN-01-019,C110,Agribusiness Analytics,Computing,Primary
+DSN-01-019,C112,Agribusiness Analytics,Computing,Primary
+DSN-01-019,C113,Agribusiness Analytics,Agriculture,Secondary
+DSN-01-019,C114,Agribusiness Analytics,Computing,Primary
+DSN-01-019,C116,Agribusiness Analytics,Computing,Primary
+DSN-01-019,C119,Agribusiness Analytics,Computing,Primary
+DSN-01-020,C105,Agribusiness Analytics,Computing,Primary
+DSN-01-020,C106,Agribusiness Analytics,Computing,Primary
+DSN-01-020,C110,Agribusiness Analytics,Computing,Primary
+DSN-01-020,C112,Agribusiness Analytics,Computing,Primary
+DSN-01-020,C114,Agribusiness Analytics,Computing,Primary
+DSN-01-020,C116,Agribusiness Analytics,Computing,Primary
+DSN-01-020,C119,Agribusiness Analytics,Computing,Primary
+DSN-01-020,C120,Agribusiness Analytics,Engineering,Secondary
+DSN-02-001,C205,Agricultural Technology,Engineering,Primary
+DSN-02-001,C208,Agricultural Technology,Engineering,Primary
+DSN-02-001,C210,Agricultural Technology,Engineering,Primary
+DSN-02-001,C212,Agricultural Technology,Engineering,Primary
+DSN-02-001,C218,Agricultural Technology,Business,Secondary
+DSN-02-001,C220,Agricultural Technology,Engineering,Primary
+DSN-02-002,C201,Agricultural Technology,Quantitative,Primary
+DSN-02-002,C204,Agricultural Technology,Quantitative,Primary
+DSN-02-002,C205,Agricultural Technology,Engineering,Secondary
+DSN-02-002,C208,Agricultural Technology,Engineering,Secondary
+DSN-02-002,C210,Agricultural Technology,Engineering,Secondary
+DSN-02-002,C212,Agricultural Technology,Engineering,Secondary
+DSN-02-002,C215,Agricultural Technology,Quantitative,Primary
+DSN-02-002,C217,Agricultural Technology,Quantitative,Primary
+DSN-02-002,C220,Agricultural Technology,Engineering,Secondary
+DSN-02-003,C201,Agricultural Technology,Quantitative,Secondary
+DSN-02-003,C204,Agricultural Technology,Quantitative,Secondary
+DSN-02-003,C207,Agricultural Technology,Computing,Primary
+DSN-02-003,C211,Agricultural Technology,Computing,Primary
+DSN-02-003,C214,Agricultural Technology,Computing,Primary
+DSN-02-003,C215,Agricultural Technology,Quantitative,Secondary
+DSN-02-003,C216,Agricultural Technology,Computing,Primary
+DSN-02-003,C217,Agricultural Technology,Quantitative,Secondary
+DSN-02-003,C219,Agricultural Technology,Computing,Primary
+DSN-02-004,C201,Agricultural Technology,Quantitative,Primary
+DSN-02-004,C202,Agricultural Technology,Agriculture,Secondary
+DSN-02-004,C203,Agricultural Technology,Agriculture,Secondary
+DSN-02-004,C204,Agricultural Technology,Quantitative,Primary
+DSN-02-004,C206,Agricultural Technology,Agriculture,Secondary
+DSN-02-004,C209,Agricultural Technology,Agriculture,Secondary
+DSN-02-004,C213,Agricultural Technology,Agriculture,Secondary
+DSN-02-004,C215,Agricultural Technology,Quantitative,Primary
+DSN-02-004,C217,Agricultural Technology,Quantitative,Primary
+DSN-02-005,C201,Agricultural Technology,Quantitative,Secondary
+DSN-02-005,C204,Agricultural Technology,Quantitative,Secondary
+DSN-02-005,C207,Agricultural Technology,Computing,Primary
+DSN-02-005,C211,Agricultural Technology,Computing,Primary
+DSN-02-005,C214,Agricultural Technology,Computing,Primary
+DSN-02-005,C215,Agricultural Technology,Quantitative,Secondary
+DSN-02-005,C216,Agricultural Technology,Computing,Primary
+DSN-02-005,C217,Agricultural Technology,Quantitative,Secondary
+DSN-02-005,C219,Agricultural Technology,Computing,Primary
+DSN-02-006,C201,Agricultural Technology,Quantitative,Primary
+DSN-02-006,C202,Agricultural Technology,Agriculture,Secondary
+DSN-02-006,C203,Agricultural Technology,Agriculture,Secondary
+DSN-02-006,C204,Agricultural Technology,Quantitative,Primary
+DSN-02-006,C206,Agricultural Technology,Agriculture,Secondary
+DSN-02-006,C209,Agricultural Technology,Agriculture,Secondary
+DSN-02-006,C213,Agricultural Technology,Agriculture,Secondary
+DSN-02-006,C215,Agricultural Technology,Quantitative,Primary
+DSN-02-006,C217,Agricultural Technology,Quantitative,Primary
+DSN-02-007,C205,Agricultural Technology,Engineering,Primary
+DSN-02-007,C207,Agricultural Technology,Computing,Secondary
+DSN-02-007,C208,Agricultural Technology,Engineering,Primary
+DSN-02-007,C210,Agricultural Technology,Engineering,Primary
+DSN-02-007,C211,Agricultural Technology,Computing,Secondary
+DSN-02-007,C212,Agricultural Technology,Engineering,Primary
+DSN-02-007,C214,Agricultural Technology,Computing,Secondary
+DSN-02-007,C216,Agricultural Technology,Computing,Secondary
+DSN-02-007,C219,Agricultural Technology,Computing,Secondary
+DSN-02-007,C220,Agricultural Technology,Engineering,Primary
+DSN-02-008,C202,Agricultural Technology,Agriculture,Primary
+DSN-02-008,C203,Agricultural Technology,Agriculture,Primary
+DSN-02-008,C206,Agricultural Technology,Agriculture,Primary
+DSN-02-008,C207,Agricultural Technology,Computing,Secondary
+DSN-02-008,C209,Agricultural Technology,Agriculture,Primary
+DSN-02-008,C211,Agricultural Technology,Computing,Secondary
+DSN-02-008,C213,Agricultural Technology,Agriculture,Primary
+DSN-02-008,C214,Agricultural Technology,Computing,Secondary
+DSN-02-008,C216,Agricultural Technology,Computing,Secondary
+DSN-02-008,C219,Agricultural Technology,Computing,Secondary
+DSN-02-009,C201,Agricultural Technology,Quantitative,Primary
+DSN-02-009,C202,Agricultural Technology,Agriculture,Secondary
+DSN-02-009,C203,Agricultural Technology,Agriculture,Secondary
+DSN-02-009,C204,Agricultural Technology,Quantitative,Primary
+DSN-02-009,C206,Agricultural Technology,Agriculture,Secondary
+DSN-02-009,C209,Agricultural Technology,Agriculture,Secondary
+DSN-02-009,C213,Agricultural Technology,Agriculture,Secondary
+DSN-02-009,C215,Agricultural Technology,Quantitative,Primary
+DSN-02-009,C217,Agricultural Technology,Quantitative,Primary
+DSN-02-010,C202,Agricultural Technology,Agriculture,Secondary
+DSN-02-010,C203,Agricultural Technology,Agriculture,Secondary
+DSN-02-010,C205,Agricultural Technology,Engineering,Primary
+DSN-02-010,C206,Agricultural Technology,Agriculture,Secondary
+DSN-02-010,C208,Agricultural Technology,Engineering,Primary
+DSN-02-010,C209,Agricultural Technology,Agriculture,Secondary
+DSN-02-010,C210,Agricultural Technology,Engineering,Primary
+DSN-02-010,C212,Agricultural Technology,Engineering,Primary
+DSN-02-010,C213,Agricultural Technology,Agriculture,Secondary
+DSN-02-010,C220,Agricultural Technology,Engineering,Primary
+DSN-02-011,C201,Agricultural Technology,Quantitative,Primary
+DSN-02-011,C202,Agricultural Technology,Agriculture,Secondary
+DSN-02-011,C203,Agricultural Technology,Agriculture,Secondary
+DSN-02-011,C204,Agricultural Technology,Quantitative,Primary
+DSN-02-011,C206,Agricultural Technology,Agriculture,Secondary
+DSN-02-011,C209,Agricultural Technology,Agriculture,Secondary
+DSN-02-011,C213,Agricultural Technology,Agriculture,Secondary
+DSN-02-011,C215,Agricultural Technology,Quantitative,Primary
+DSN-02-011,C217,Agricultural Technology,Quantitative,Primary
+DSN-02-012,C201,Agricultural Technology,Quantitative,Secondary
+DSN-02-012,C204,Agricultural Technology,Quantitative,Secondary
+DSN-02-012,C215,Agricultural Technology,Quantitative,Secondary
+DSN-02-012,C217,Agricultural Technology,Quantitative,Secondary
+DSN-02-012,C218,Agricultural Technology,Business,Primary
+DSN-02-013,C205,Agricultural Technology,Engineering,Primary
+DSN-02-013,C208,Agricultural Technology,Engineering,Primary
+DSN-02-013,C210,Agricultural Technology,Engineering,Primary
+DSN-02-013,C212,Agricultural Technology,Engineering,Primary
+DSN-02-013,C218,Agricultural Technology,Business,Secondary
+DSN-02-013,C220,Agricultural Technology,Engineering,Primary
+DSN-02-014,C201,Agricultural Technology,Quantitative,Primary
+DSN-02-014,C204,Agricultural Technology,Quantitative,Primary
+DSN-02-014,C205,Agricultural Technology,Engineering,Secondary
+DSN-02-014,C208,Agricultural Technology,Engineering,Secondary
+DSN-02-014,C210,Agricultural Technology,Engineering,Secondary
+DSN-02-014,C212,Agricultural Technology,Engineering,Secondary
+DSN-02-014,C215,Agricultural Technology,Quantitative,Primary
+DSN-02-014,C217,Agricultural Technology,Quantitative,Primary
+DSN-02-014,C220,Agricultural Technology,Engineering,Secondary
+DSN-02-015,C201,Agricultural Technology,Quantitative,Secondary
+DSN-02-015,C204,Agricultural Technology,Quantitative,Secondary
+DSN-02-015,C215,Agricultural Technology,Quantitative,Secondary
+DSN-02-015,C217,Agricultural Technology,Quantitative,Secondary
+DSN-02-015,C218,Agricultural Technology,Business,Primary
+DSN-02-016,C202,Agricultural Technology,Agriculture,Primary
+DSN-02-016,C203,Agricultural Technology,Agriculture,Primary
+DSN-02-016,C205,Agricultural Technology,Engineering,Secondary
+DSN-02-016,C206,Agricultural Technology,Agriculture,Primary
+DSN-02-016,C208,Agricultural Technology,Engineering,Secondary
+DSN-02-016,C209,Agricultural Technology,Agriculture,Primary
+DSN-02-016,C210,Agricultural Technology,Engineering,Secondary
+DSN-02-016,C212,Agricultural Technology,Engineering,Secondary
+DSN-02-016,C213,Agricultural Technology,Agriculture,Primary
+DSN-02-016,C220,Agricultural Technology,Engineering,Secondary
+DSN-02-017,C202,Agricultural Technology,Agriculture,Primary
+DSN-02-017,C203,Agricultural Technology,Agriculture,Primary
+DSN-02-017,C206,Agricultural Technology,Agriculture,Primary
+DSN-02-017,C207,Agricultural Technology,Computing,Secondary
+DSN-02-017,C209,Agricultural Technology,Agriculture,Primary
+DSN-02-017,C211,Agricultural Technology,Computing,Secondary
+DSN-02-017,C213,Agricultural Technology,Agriculture,Primary
+DSN-02-017,C214,Agricultural Technology,Computing,Secondary
+DSN-02-017,C216,Agricultural Technology,Computing,Secondary
+DSN-02-017,C219,Agricultural Technology,Computing,Secondary
+DSN-02-018,C201,Agricultural Technology,Quantitative,Primary
+DSN-02-018,C204,Agricultural Technology,Quantitative,Primary
+DSN-02-018,C207,Agricultural Technology,Computing,Secondary
+DSN-02-018,C211,Agricultural Technology,Computing,Secondary
+DSN-02-018,C214,Agricultural Technology,Computing,Secondary
+DSN-02-018,C215,Agricultural Technology,Quantitative,Primary
+DSN-02-018,C216,Agricultural Technology,Computing,Secondary
+DSN-02-018,C217,Agricultural Technology,Quantitative,Primary
+DSN-02-018,C219,Agricultural Technology,Computing,Secondary
+DSN-02-019,C205,Agricultural Technology,Engineering,Primary
+DSN-02-019,C208,Agricultural Technology,Engineering,Primary
+DSN-02-019,C210,Agricultural Technology,Engineering,Primary
+DSN-02-019,C212,Agricultural Technology,Engineering,Primary
+DSN-02-019,C218,Agricultural Technology,Business,Secondary
+DSN-02-019,C220,Agricultural Technology,Engineering,Primary
+DSN-02-020,C202,Agricultural Technology,Agriculture,Primary
+DSN-02-020,C203,Agricultural Technology,Agriculture,Primary
+DSN-02-020,C205,Agricultural Technology,Engineering,Secondary
+DSN-02-020,C206,Agricultural Technology,Agriculture,Primary
+DSN-02-020,C208,Agricultural Technology,Engineering,Secondary
+DSN-02-020,C209,Agricultural Technology,Agriculture,Primary
+DSN-02-020,C210,Agricultural Technology,Engineering,Secondary
+DSN-02-020,C212,Agricultural Technology,Engineering,Secondary
+DSN-02-020,C213,Agricultural Technology,Agriculture,Primary
+DSN-02-020,C220,Agricultural Technology,Engineering,Secondary
+DSN-03-001,C401,Data Science for Agriculture,Computing,Primary
+DSN-03-001,C402,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-001,C403,Data Science for Agriculture,Computing,Primary
+DSN-03-001,C404,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-001,C405,Data Science for Agriculture,Computing,Primary
+DSN-03-001,C406,Data Science for Agriculture,Computing,Primary
+DSN-03-001,C407,Data Science for Agriculture,Computing,Primary
+DSN-03-001,C408,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-001,C409,Data Science for Agriculture,Computing,Primary
+DSN-03-001,C410,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-001,C411,Data Science for Agriculture,Computing,Primary
+DSN-03-001,C414,Data Science for Agriculture,Computing,Primary
+DSN-03-001,C415,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-001,C416,Data Science for Agriculture,Computing,Primary
+DSN-03-001,C417,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-001,C419,Data Science for Agriculture,Computing,Primary
+DSN-03-002,C402,Data Science for Agriculture,Quantitative,Primary
+DSN-03-002,C404,Data Science for Agriculture,Quantitative,Primary
+DSN-03-002,C408,Data Science for Agriculture,Quantitative,Primary
+DSN-03-002,C410,Data Science for Agriculture,Quantitative,Primary
+DSN-03-002,C415,Data Science for Agriculture,Quantitative,Primary
+DSN-03-002,C417,Data Science for Agriculture,Quantitative,Primary
+DSN-03-002,C420,Data Science for Agriculture,Engineering,Secondary
+DSN-03-003,C401,Data Science for Agriculture,Computing,Primary
+DSN-03-003,C403,Data Science for Agriculture,Computing,Primary
+DSN-03-003,C405,Data Science for Agriculture,Computing,Primary
+DSN-03-003,C406,Data Science for Agriculture,Computing,Primary
+DSN-03-003,C407,Data Science for Agriculture,Computing,Primary
+DSN-03-003,C409,Data Science for Agriculture,Computing,Primary
+DSN-03-003,C411,Data Science for Agriculture,Computing,Primary
+DSN-03-003,C414,Data Science for Agriculture,Computing,Primary
+DSN-03-003,C416,Data Science for Agriculture,Computing,Primary
+DSN-03-003,C418,Data Science for Agriculture,Business,Secondary
+DSN-03-003,C419,Data Science for Agriculture,Computing,Primary
+DSN-03-004,C402,Data Science for Agriculture,Quantitative,Primary
+DSN-03-004,C404,Data Science for Agriculture,Quantitative,Primary
+DSN-03-004,C408,Data Science for Agriculture,Quantitative,Primary
+DSN-03-004,C410,Data Science for Agriculture,Quantitative,Primary
+DSN-03-004,C415,Data Science for Agriculture,Quantitative,Primary
+DSN-03-004,C417,Data Science for Agriculture,Quantitative,Primary
+DSN-03-004,C420,Data Science for Agriculture,Engineering,Secondary
+DSN-03-005,C401,Data Science for Agriculture,Computing,Primary
+DSN-03-005,C403,Data Science for Agriculture,Computing,Primary
+DSN-03-005,C405,Data Science for Agriculture,Computing,Primary
+DSN-03-005,C406,Data Science for Agriculture,Computing,Primary
+DSN-03-005,C407,Data Science for Agriculture,Computing,Primary
+DSN-03-005,C409,Data Science for Agriculture,Computing,Primary
+DSN-03-005,C411,Data Science for Agriculture,Computing,Primary
+DSN-03-005,C414,Data Science for Agriculture,Computing,Primary
+DSN-03-005,C416,Data Science for Agriculture,Computing,Primary
+DSN-03-005,C419,Data Science for Agriculture,Computing,Primary
+DSN-03-005,C420,Data Science for Agriculture,Engineering,Secondary
+DSN-03-006,C401,Data Science for Agriculture,Computing,Primary
+DSN-03-006,C403,Data Science for Agriculture,Computing,Primary
+DSN-03-006,C405,Data Science for Agriculture,Computing,Primary
+DSN-03-006,C406,Data Science for Agriculture,Computing,Primary
+DSN-03-006,C407,Data Science for Agriculture,Computing,Primary
+DSN-03-006,C409,Data Science for Agriculture,Computing,Primary
+DSN-03-006,C411,Data Science for Agriculture,Computing,Primary
+DSN-03-006,C414,Data Science for Agriculture,Computing,Primary
+DSN-03-006,C416,Data Science for Agriculture,Computing,Primary
+DSN-03-006,C419,Data Science for Agriculture,Computing,Primary
+DSN-03-006,C420,Data Science for Agriculture,Engineering,Secondary
+DSN-03-007,C401,Data Science for Agriculture,Computing,Primary
+DSN-03-007,C403,Data Science for Agriculture,Computing,Primary
+DSN-03-007,C405,Data Science for Agriculture,Computing,Primary
+DSN-03-007,C406,Data Science for Agriculture,Computing,Primary
+DSN-03-007,C407,Data Science for Agriculture,Computing,Primary
+DSN-03-007,C409,Data Science for Agriculture,Computing,Primary
+DSN-03-007,C411,Data Science for Agriculture,Computing,Primary
+DSN-03-007,C414,Data Science for Agriculture,Computing,Primary
+DSN-03-007,C416,Data Science for Agriculture,Computing,Primary
+DSN-03-007,C418,Data Science for Agriculture,Business,Secondary
+DSN-03-007,C419,Data Science for Agriculture,Computing,Primary
+DSN-03-008,C402,Data Science for Agriculture,Quantitative,Primary
+DSN-03-008,C404,Data Science for Agriculture,Quantitative,Primary
+DSN-03-008,C408,Data Science for Agriculture,Quantitative,Primary
+DSN-03-008,C410,Data Science for Agriculture,Quantitative,Primary
+DSN-03-008,C412,Data Science for Agriculture,Agriculture,Secondary
+DSN-03-008,C413,Data Science for Agriculture,Agriculture,Secondary
+DSN-03-008,C415,Data Science for Agriculture,Quantitative,Primary
+DSN-03-008,C417,Data Science for Agriculture,Quantitative,Primary
+DSN-03-009,C402,Data Science for Agriculture,Quantitative,Primary
+DSN-03-009,C404,Data Science for Agriculture,Quantitative,Primary
+DSN-03-009,C408,Data Science for Agriculture,Quantitative,Primary
+DSN-03-009,C410,Data Science for Agriculture,Quantitative,Primary
+DSN-03-009,C415,Data Science for Agriculture,Quantitative,Primary
+DSN-03-009,C417,Data Science for Agriculture,Quantitative,Primary
+DSN-03-009,C418,Data Science for Agriculture,Business,Secondary
+DSN-03-010,C401,Data Science for Agriculture,Computing,Primary
+DSN-03-010,C402,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-010,C403,Data Science for Agriculture,Computing,Primary
+DSN-03-010,C404,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-010,C405,Data Science for Agriculture,Computing,Primary
+DSN-03-010,C406,Data Science for Agriculture,Computing,Primary
+DSN-03-010,C407,Data Science for Agriculture,Computing,Primary
+DSN-03-010,C408,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-010,C409,Data Science for Agriculture,Computing,Primary
+DSN-03-010,C410,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-010,C411,Data Science for Agriculture,Computing,Primary
+DSN-03-010,C414,Data Science for Agriculture,Computing,Primary
+DSN-03-010,C415,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-010,C416,Data Science for Agriculture,Computing,Primary
+DSN-03-010,C417,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-010,C419,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C401,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C403,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C405,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C406,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C407,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C409,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C411,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C414,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C416,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C419,Data Science for Agriculture,Computing,Primary
+DSN-03-011,C420,Data Science for Agriculture,Engineering,Secondary
+DSN-03-012,C412,Data Science for Agriculture,Agriculture,Primary
+DSN-03-012,C413,Data Science for Agriculture,Agriculture,Primary
+DSN-03-012,C420,Data Science for Agriculture,Engineering,Secondary
+DSN-03-013,C401,Data Science for Agriculture,Computing,Secondary
+DSN-03-013,C402,Data Science for Agriculture,Quantitative,Primary
+DSN-03-013,C403,Data Science for Agriculture,Computing,Secondary
+DSN-03-013,C404,Data Science for Agriculture,Quantitative,Primary
+DSN-03-013,C405,Data Science for Agriculture,Computing,Secondary
+DSN-03-013,C406,Data Science for Agriculture,Computing,Secondary
+DSN-03-013,C407,Data Science for Agriculture,Computing,Secondary
+DSN-03-013,C408,Data Science for Agriculture,Quantitative,Primary
+DSN-03-013,C409,Data Science for Agriculture,Computing,Secondary
+DSN-03-013,C410,Data Science for Agriculture,Quantitative,Primary
+DSN-03-013,C411,Data Science for Agriculture,Computing,Secondary
+DSN-03-013,C414,Data Science for Agriculture,Computing,Secondary
+DSN-03-013,C415,Data Science for Agriculture,Quantitative,Primary
+DSN-03-013,C416,Data Science for Agriculture,Computing,Secondary
+DSN-03-013,C417,Data Science for Agriculture,Quantitative,Primary
+DSN-03-013,C419,Data Science for Agriculture,Computing,Secondary
+DSN-03-014,C401,Data Science for Agriculture,Computing,Primary
+DSN-03-014,C402,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-014,C403,Data Science for Agriculture,Computing,Primary
+DSN-03-014,C404,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-014,C405,Data Science for Agriculture,Computing,Primary
+DSN-03-014,C406,Data Science for Agriculture,Computing,Primary
+DSN-03-014,C407,Data Science for Agriculture,Computing,Primary
+DSN-03-014,C408,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-014,C409,Data Science for Agriculture,Computing,Primary
+DSN-03-014,C410,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-014,C411,Data Science for Agriculture,Computing,Primary
+DSN-03-014,C414,Data Science for Agriculture,Computing,Primary
+DSN-03-014,C415,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-014,C416,Data Science for Agriculture,Computing,Primary
+DSN-03-014,C417,Data Science for Agriculture,Quantitative,Secondary
+DSN-03-014,C419,Data Science for Agriculture,Computing,Primary
+DSN-03-015,C402,Data Science for Agriculture,Quantitative,Primary
+DSN-03-015,C404,Data Science for Agriculture,Quantitative,Primary
+DSN-03-015,C408,Data Science for Agriculture,Quantitative,Primary
+DSN-03-015,C410,Data Science for Agriculture,Quantitative,Primary
+DSN-03-015,C415,Data Science for Agriculture,Quantitative,Primary
+DSN-03-015,C417,Data Science for Agriculture,Quantitative,Primary
+DSN-03-015,C420,Data Science for Agriculture,Engineering,Secondary
+DSN-03-016,C402,Data Science for Agriculture,Quantitative,Primary
+DSN-03-016,C404,Data Science for Agriculture,Quantitative,Primary
+DSN-03-016,C408,Data Science for Agriculture,Quantitative,Primary
+DSN-03-016,C410,Data Science for Agriculture,Quantitative,Primary
+DSN-03-016,C415,Data Science for Agriculture,Quantitative,Primary
+DSN-03-016,C417,Data Science for Agriculture,Quantitative,Primary
+DSN-03-016,C420,Data Science for Agriculture,Engineering,Secondary
+DSN-03-017,C402,Data Science for Agriculture,Quantitative,Primary
+DSN-03-017,C404,Data Science for Agriculture,Quantitative,Primary
+DSN-03-017,C408,Data Science for Agriculture,Quantitative,Primary
+DSN-03-017,C410,Data Science for Agriculture,Quantitative,Primary
+DSN-03-017,C415,Data Science for Agriculture,Quantitative,Primary
+DSN-03-017,C417,Data Science for Agriculture,Quantitative,Primary
+DSN-03-017,C420,Data Science for Agriculture,Engineering,Secondary
+DSN-03-018,C401,Data Science for Agriculture,Computing,Secondary
+DSN-03-018,C402,Data Science for Agriculture,Quantitative,Primary
+DSN-03-018,C403,Data Science for Agriculture,Computing,Secondary
+DSN-03-018,C404,Data Science for Agriculture,Quantitative,Primary
+DSN-03-018,C405,Data Science for Agriculture,Computing,Secondary
+DSN-03-018,C406,Data Science for Agriculture,Computing,Secondary
+DSN-03-018,C407,Data Science for Agriculture,Computing,Secondary
+DSN-03-018,C408,Data Science for Agriculture,Quantitative,Primary
+DSN-03-018,C409,Data Science for Agriculture,Computing,Secondary
+DSN-03-018,C410,Data Science for Agriculture,Quantitative,Primary
+DSN-03-018,C411,Data Science for Agriculture,Computing,Secondary
+DSN-03-018,C414,Data Science for Agriculture,Computing,Secondary
+DSN-03-018,C415,Data Science for Agriculture,Quantitative,Primary
+DSN-03-018,C416,Data Science for Agriculture,Computing,Secondary
+DSN-03-018,C417,Data Science for Agriculture,Quantitative,Primary
+DSN-03-018,C419,Data Science for Agriculture,Computing,Secondary
+DSN-03-019,C401,Data Science for Agriculture,Computing,Primary
+DSN-03-019,C403,Data Science for Agriculture,Computing,Primary
+DSN-03-019,C405,Data Science for Agriculture,Computing,Primary
+DSN-03-019,C406,Data Science for Agriculture,Computing,Primary
+DSN-03-019,C407,Data Science for Agriculture,Computing,Primary
+DSN-03-019,C409,Data Science for Agriculture,Computing,Primary
+DSN-03-019,C411,Data Science for Agriculture,Computing,Primary
+DSN-03-019,C414,Data Science for Agriculture,Computing,Primary
+DSN-03-019,C416,Data Science for Agriculture,Computing,Primary
+DSN-03-019,C419,Data Science for Agriculture,Computing,Primary
+DSN-03-019,C420,Data Science for Agriculture,Engineering,Secondary
+DSN-03-020,C401,Data Science for Agriculture,Computing,Primary
+DSN-03-020,C403,Data Science for Agriculture,Computing,Primary
+DSN-03-020,C405,Data Science for Agriculture,Computing,Primary
+DSN-03-020,C406,Data Science for Agriculture,Computing,Primary
+DSN-03-020,C407,Data Science for Agriculture,Computing,Primary
+DSN-03-020,C409,Data Science for Agriculture,Computing,Primary
+DSN-03-020,C411,Data Science for Agriculture,Computing,Primary
+DSN-03-020,C414,Data Science for Agriculture,Computing,Primary
+DSN-03-020,C416,Data Science for Agriculture,Computing,Primary
+DSN-03-020,C418,Data Science for Agriculture,Business,Secondary
+DSN-03-020,C419,Data Science for Agriculture,Computing,Primary
+DSN-04-001,C301,Environmental Informatics,Quantitative,Secondary
+DSN-04-001,C303,Environmental Informatics,Computing,Primary
+DSN-04-001,C304,Environmental Informatics,Quantitative,Secondary
+DSN-04-001,C305,Environmental Informatics,Computing,Primary
+DSN-04-001,C306,Environmental Informatics,Quantitative,Secondary
+DSN-04-001,C307,Environmental Informatics,Computing,Primary
+DSN-04-001,C309,Environmental Informatics,Computing,Primary
+DSN-04-001,C310,Environmental Informatics,Computing,Primary
+DSN-04-001,C312,Environmental Informatics,Computing,Primary
+DSN-04-001,C314,Environmental Informatics,Computing,Primary
+DSN-04-001,C315,Environmental Informatics,Quantitative,Secondary
+DSN-04-001,C316,Environmental Informatics,Computing,Primary
+DSN-04-001,C317,Environmental Informatics,Quantitative,Secondary
+DSN-04-001,C319,Environmental Informatics,Computing,Primary
+DSN-04-002,C302,Environmental Informatics,Agriculture,Primary
+DSN-04-002,C308,Environmental Informatics,Engineering,Secondary
+DSN-04-002,C311,Environmental Informatics,Engineering,Secondary
+DSN-04-002,C313,Environmental Informatics,Agriculture,Primary
+DSN-04-002,C320,Environmental Informatics,Engineering,Secondary
+DSN-04-003,C303,Environmental Informatics,Computing,Primary
+DSN-04-003,C305,Environmental Informatics,Computing,Primary
+DSN-04-003,C307,Environmental Informatics,Computing,Primary
+DSN-04-003,C309,Environmental Informatics,Computing,Primary
+DSN-04-003,C310,Environmental Informatics,Computing,Primary
+DSN-04-003,C312,Environmental Informatics,Computing,Primary
+DSN-04-003,C314,Environmental Informatics,Computing,Primary
+DSN-04-003,C316,Environmental Informatics,Computing,Primary
+DSN-04-003,C318,Environmental Informatics,Business,Secondary
+DSN-04-003,C319,Environmental Informatics,Computing,Primary
+DSN-04-004,C303,Environmental Informatics,Computing,Primary
+DSN-04-004,C305,Environmental Informatics,Computing,Primary
+DSN-04-004,C307,Environmental Informatics,Computing,Primary
+DSN-04-004,C309,Environmental Informatics,Computing,Primary
+DSN-04-004,C310,Environmental Informatics,Computing,Primary
+DSN-04-004,C312,Environmental Informatics,Computing,Primary
+DSN-04-004,C314,Environmental Informatics,Computing,Primary
+DSN-04-004,C316,Environmental Informatics,Computing,Primary
+DSN-04-004,C318,Environmental Informatics,Business,Secondary
+DSN-04-004,C319,Environmental Informatics,Computing,Primary
+DSN-04-005,C301,Environmental Informatics,Quantitative,Primary
+DSN-04-005,C303,Environmental Informatics,Computing,Secondary
+DSN-04-005,C304,Environmental Informatics,Quantitative,Primary
+DSN-04-005,C305,Environmental Informatics,Computing,Secondary
+DSN-04-005,C306,Environmental Informatics,Quantitative,Primary
+DSN-04-005,C307,Environmental Informatics,Computing,Secondary
+DSN-04-005,C309,Environmental Informatics,Computing,Secondary
+DSN-04-005,C310,Environmental Informatics,Computing,Secondary
+DSN-04-005,C312,Environmental Informatics,Computing,Secondary
+DSN-04-005,C314,Environmental Informatics,Computing,Secondary
+DSN-04-005,C315,Environmental Informatics,Quantitative,Primary
+DSN-04-005,C316,Environmental Informatics,Computing,Secondary
+DSN-04-005,C317,Environmental Informatics,Quantitative,Primary
+DSN-04-005,C319,Environmental Informatics,Computing,Secondary
+DSN-04-006,C308,Environmental Informatics,Engineering,Primary
+DSN-04-006,C311,Environmental Informatics,Engineering,Primary
+DSN-04-006,C318,Environmental Informatics,Business,Secondary
+DSN-04-006,C320,Environmental Informatics,Engineering,Primary
+DSN-04-007,C302,Environmental Informatics,Agriculture,Secondary
+DSN-04-007,C303,Environmental Informatics,Computing,Primary
+DSN-04-007,C305,Environmental Informatics,Computing,Primary
+DSN-04-007,C307,Environmental Informatics,Computing,Primary
+DSN-04-007,C309,Environmental Informatics,Computing,Primary
+DSN-04-007,C310,Environmental Informatics,Computing,Primary
+DSN-04-007,C312,Environmental Informatics,Computing,Primary
+DSN-04-007,C313,Environmental Informatics,Agriculture,Secondary
+DSN-04-007,C314,Environmental Informatics,Computing,Primary
+DSN-04-007,C316,Environmental Informatics,Computing,Primary
+DSN-04-007,C319,Environmental Informatics,Computing,Primary
+DSN-04-008,C302,Environmental Informatics,Agriculture,Secondary
+DSN-04-008,C303,Environmental Informatics,Computing,Primary
+DSN-04-008,C305,Environmental Informatics,Computing,Primary
+DSN-04-008,C307,Environmental Informatics,Computing,Primary
+DSN-04-008,C309,Environmental Informatics,Computing,Primary
+DSN-04-008,C310,Environmental Informatics,Computing,Primary
+DSN-04-008,C312,Environmental Informatics,Computing,Primary
+DSN-04-008,C313,Environmental Informatics,Agriculture,Secondary
+DSN-04-008,C314,Environmental Informatics,Computing,Primary
+DSN-04-008,C316,Environmental Informatics,Computing,Primary
+DSN-04-008,C319,Environmental Informatics,Computing,Primary
+DSN-04-009,C302,Environmental Informatics,Agriculture,Secondary
+DSN-04-009,C313,Environmental Informatics,Agriculture,Secondary
+DSN-04-009,C318,Environmental Informatics,Business,Primary
+DSN-04-010,C301,Environmental Informatics,Quantitative,Primary
+DSN-04-010,C304,Environmental Informatics,Quantitative,Primary
+DSN-04-010,C306,Environmental Informatics,Quantitative,Primary
+DSN-04-010,C308,Environmental Informatics,Engineering,Secondary
+DSN-04-010,C311,Environmental Informatics,Engineering,Secondary
+DSN-04-010,C315,Environmental Informatics,Quantitative,Primary
+DSN-04-010,C317,Environmental Informatics,Quantitative,Primary
+DSN-04-010,C320,Environmental Informatics,Engineering,Secondary
+DSN-04-011,C302,Environmental Informatics,Agriculture,Secondary
+DSN-04-011,C303,Environmental Informatics,Computing,Primary
+DSN-04-011,C305,Environmental Informatics,Computing,Primary
+DSN-04-011,C307,Environmental Informatics,Computing,Primary
+DSN-04-011,C309,Environmental Informatics,Computing,Primary
+DSN-04-011,C310,Environmental Informatics,Computing,Primary
+DSN-04-011,C312,Environmental Informatics,Computing,Primary
+DSN-04-011,C313,Environmental Informatics,Agriculture,Secondary
+DSN-04-011,C314,Environmental Informatics,Computing,Primary
+DSN-04-011,C316,Environmental Informatics,Computing,Primary
+DSN-04-011,C319,Environmental Informatics,Computing,Primary
+DSN-04-012,C301,Environmental Informatics,Quantitative,Primary
+DSN-04-012,C303,Environmental Informatics,Computing,Secondary
+DSN-04-012,C304,Environmental Informatics,Quantitative,Primary
+DSN-04-012,C305,Environmental Informatics,Computing,Secondary
+DSN-04-012,C306,Environmental Informatics,Quantitative,Primary
+DSN-04-012,C307,Environmental Informatics,Computing,Secondary
+DSN-04-012,C309,Environmental Informatics,Computing,Secondary
+DSN-04-012,C310,Environmental Informatics,Computing,Secondary
+DSN-04-012,C312,Environmental Informatics,Computing,Secondary
+DSN-04-012,C314,Environmental Informatics,Computing,Secondary
+DSN-04-012,C315,Environmental Informatics,Quantitative,Primary
+DSN-04-012,C316,Environmental Informatics,Computing,Secondary
+DSN-04-012,C317,Environmental Informatics,Quantitative,Primary
+DSN-04-012,C319,Environmental Informatics,Computing,Secondary
+DSN-04-013,C301,Environmental Informatics,Quantitative,Primary
+DSN-04-013,C302,Environmental Informatics,Agriculture,Secondary
+DSN-04-013,C304,Environmental Informatics,Quantitative,Primary
+DSN-04-013,C306,Environmental Informatics,Quantitative,Primary
+DSN-04-013,C313,Environmental Informatics,Agriculture,Secondary
+DSN-04-013,C315,Environmental Informatics,Quantitative,Primary
+DSN-04-013,C317,Environmental Informatics,Quantitative,Primary
+DSN-04-014,C302,Environmental Informatics,Agriculture,Secondary
+DSN-04-014,C303,Environmental Informatics,Computing,Primary
+DSN-04-014,C305,Environmental Informatics,Computing,Primary
+DSN-04-014,C307,Environmental Informatics,Computing,Primary
+DSN-04-014,C309,Environmental Informatics,Computing,Primary
+DSN-04-014,C310,Environmental Informatics,Computing,Primary
+DSN-04-014,C312,Environmental Informatics,Computing,Primary
+DSN-04-014,C313,Environmental Informatics,Agriculture,Secondary
+DSN-04-014,C314,Environmental Informatics,Computing,Primary
+DSN-04-014,C316,Environmental Informatics,Computing,Primary
+DSN-04-014,C319,Environmental Informatics,Computing,Primary
+DSN-04-015,C308,Environmental Informatics,Engineering,Primary
+DSN-04-015,C311,Environmental Informatics,Engineering,Primary
+DSN-04-015,C318,Environmental Informatics,Business,Secondary
+DSN-04-015,C320,Environmental Informatics,Engineering,Primary
+DSN-04-016,C301,Environmental Informatics,Quantitative,Primary
+DSN-04-016,C303,Environmental Informatics,Computing,Secondary
+DSN-04-016,C304,Environmental Informatics,Quantitative,Primary
+DSN-04-016,C305,Environmental Informatics,Computing,Secondary
+DSN-04-016,C306,Environmental Informatics,Quantitative,Primary
+DSN-04-016,C307,Environmental Informatics,Computing,Secondary
+DSN-04-016,C309,Environmental Informatics,Computing,Secondary
+DSN-04-016,C310,Environmental Informatics,Computing,Secondary
+DSN-04-016,C312,Environmental Informatics,Computing,Secondary
+DSN-04-016,C314,Environmental Informatics,Computing,Secondary
+DSN-04-016,C315,Environmental Informatics,Quantitative,Primary
+DSN-04-016,C316,Environmental Informatics,Computing,Secondary
+DSN-04-016,C317,Environmental Informatics,Quantitative,Primary
+DSN-04-016,C319,Environmental Informatics,Computing,Secondary
+DSN-04-017,C301,Environmental Informatics,Quantitative,Primary
+DSN-04-017,C302,Environmental Informatics,Agriculture,Secondary
+DSN-04-017,C304,Environmental Informatics,Quantitative,Primary
+DSN-04-017,C306,Environmental Informatics,Quantitative,Primary
+DSN-04-017,C313,Environmental Informatics,Agriculture,Secondary
+DSN-04-017,C315,Environmental Informatics,Quantitative,Primary
+DSN-04-017,C317,Environmental Informatics,Quantitative,Primary
+DSN-04-018,C303,Environmental Informatics,Computing,Primary
+DSN-04-018,C305,Environmental Informatics,Computing,Primary
+DSN-04-018,C307,Environmental Informatics,Computing,Primary
+DSN-04-018,C309,Environmental Informatics,Computing,Primary
+DSN-04-018,C310,Environmental Informatics,Computing,Primary
+DSN-04-018,C312,Environmental Informatics,Computing,Primary
+DSN-04-018,C314,Environmental Informatics,Computing,Primary
+DSN-04-018,C316,Environmental Informatics,Computing,Primary
+DSN-04-018,C318,Environmental Informatics,Business,Secondary
+DSN-04-018,C319,Environmental Informatics,Computing,Primary
+DSN-04-019,C303,Environmental Informatics,Computing,Primary
+DSN-04-019,C305,Environmental Informatics,Computing,Primary
+DSN-04-019,C307,Environmental Informatics,Computing,Primary
+DSN-04-019,C309,Environmental Informatics,Computing,Primary
+DSN-04-019,C310,Environmental Informatics,Computing,Primary
+DSN-04-019,C312,Environmental Informatics,Computing,Primary
+DSN-04-019,C314,Environmental Informatics,Computing,Primary
+DSN-04-019,C316,Environmental Informatics,Computing,Primary
+DSN-04-019,C318,Environmental Informatics,Business,Secondary
+DSN-04-019,C319,Environmental Informatics,Computing,Primary
+DSN-04-020,C303,Environmental Informatics,Computing,Primary
+DSN-04-020,C305,Environmental Informatics,Computing,Primary
+DSN-04-020,C307,Environmental Informatics,Computing,Primary
+DSN-04-020,C309,Environmental Informatics,Computing,Primary
+DSN-04-020,C310,Environmental Informatics,Computing,Primary
+DSN-04-020,C312,Environmental Informatics,Computing,Primary
+DSN-04-020,C314,Environmental Informatics,Computing,Primary
+DSN-04-020,C316,Environmental Informatics,Computing,Primary
+DSN-04-020,C318,Environmental Informatics,Business,Secondary
+DSN-04-020,C319,Environmental Informatics,Computing,Primary

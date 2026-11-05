@@ -1,0 +1,721 @@
+student_id,program,first_term,interest_domain,baseline_gpa
+STU-0001,Agribusiness Analytics,3,Quantitative,2.98
+STU-0002,Agricultural Technology,1,Business,2.97
+STU-0003,Environmental Informatics,4,Engineering,3.06
+STU-0004,Data Science for Agriculture,2,Agriculture,2.55
+STU-0005,Agribusiness Analytics,5,Quantitative,2.7
+STU-0006,Agricultural Technology,6,Business,2.26
+STU-0007,Environmental Informatics,5,Business,3.09
+STU-0008,Data Science for Agriculture,4,Computing,3.14
+STU-0009,Agribusiness Analytics,4,Business,2.26
+STU-0010,Agricultural Technology,3,Computing,2.9
+STU-0011,Environmental Informatics,5,Computing,3.03
+STU-0012,Data Science for Agriculture,1,Quantitative,3.5
+STU-0013,Agribusiness Analytics,3,Business,3.09
+STU-0014,Agricultural Technology,6,Computing,3.71
+STU-0015,Environmental Informatics,3,Business,3.42
+STU-0016,Data Science for Agriculture,5,Quantitative,2.86
+STU-0017,Agribusiness Analytics,6,Agriculture,3.33
+STU-0018,Agricultural Technology,6,Business,3.69
+STU-0019,Environmental Informatics,5,Quantitative,2.23
+STU-0020,Data Science for Agriculture,5,Quantitative,2.45
+STU-0021,Agribusiness Analytics,2,Engineering,3.38
+STU-0022,Agricultural Technology,2,Quantitative,2.06
+STU-0023,Environmental Informatics,2,Engineering,3.08
+STU-0024,Data Science for Agriculture,3,Computing,3.66
+STU-0025,Agribusiness Analytics,5,Agriculture,3.03
+STU-0026,Agricultural Technology,4,Agriculture,2.94
+STU-0027,Environmental Informatics,4,Computing,3.38
+STU-0028,Data Science for Agriculture,5,Computing,2.14
+STU-0029,Agribusiness Analytics,6,Computing,3.29
+STU-0030,Agricultural Technology,4,Computing,2.66
+STU-0031,Environmental Informatics,4,Engineering,3.36
+STU-0032,Data Science for Agriculture,1,Computing,3.6
+STU-0033,Agribusiness Analytics,5,Agriculture,2.77
+STU-0034,Agricultural Technology,5,Engineering,2.33
+STU-0035,Environmental Informatics,3,Agriculture,3.06
+STU-0036,Data Science for Agriculture,1,Computing,3.29
+STU-0037,Agribusiness Analytics,2,Quantitative,3.34
+STU-0038,Agricultural Technology,4,Quantitative,2.96
+STU-0039,Environmental Informatics,6,Computing,3.13
+STU-0040,Data Science for Agriculture,3,Business,3.26
+STU-0041,Agribusiness Analytics,2,Agriculture,3.35
+STU-0042,Agricultural Technology,5,Computing,2.45
+STU-0043,Environmental Informatics,6,Computing,3.07
+STU-0044,Data Science for Agriculture,4,Quantitative,3.11
+STU-0045,Agribusiness Analytics,1,Computing,3.14
+STU-0046,Agricultural Technology,6,Computing,3.41
+STU-0047,Environmental Informatics,4,Business,3.29
+STU-0048,Data Science for Agriculture,4,Computing,3.19
+STU-0049,Agribusiness Analytics,4,Computing,3.06
+STU-0050,Agricultural Technology,2,Quantitative,2.79
+STU-0051,Environmental Informatics,4,Computing,2.43
+STU-0052,Data Science for Agriculture,5,Quantitative,2.82
+STU-0053,Agribusiness Analytics,5,Engineering,2.75
+STU-0054,Agricultural Technology,4,Computing,2.96
+STU-0055,Environmental Informatics,4,Computing,3.65
+STU-0056,Data Science for Agriculture,3,Computing,2.55
+STU-0057,Agribusiness Analytics,2,Business,3.23
+STU-0058,Agricultural Technology,5,Engineering,3.43
+STU-0059,Environmental Informatics,6,Engineering,2.59
+STU-0060,Data Science for Agriculture,4,Agriculture,2.51
+STU-0061,Agribusiness Analytics,5,Quantitative,3.41
+STU-0062,Agricultural Technology,1,Quantitative,3.04
+STU-0063,Environmental Informatics,1,Engineering,3.37
+STU-0064,Data Science for Agriculture,5,Business,3.37
+STU-0065,Agribusiness Analytics,1,Computing,2.33
+STU-0066,Agricultural Technology,4,Computing,3.07
+STU-0067,Environmental Informatics,2,Agriculture,2.53
+STU-0068,Data Science for Agriculture,6,Engineering,3.32
+STU-0069,Agribusiness Analytics,4,Quantitative,3.23
+STU-0070,Agricultural Technology,3,Quantitative,2.94
+STU-0071,Environmental Informatics,5,Computing,3.5
+STU-0072,Data Science for Agriculture,2,Business,3.14
+STU-0073,Agribusiness Analytics,5,Computing,3.43
+STU-0074,Agricultural Technology,4,Computing,2.55
+STU-0075,Environmental Informatics,4,Quantitative,3.15
+STU-0076,Data Science for Agriculture,1,Agriculture,2.77
+STU-0077,Agribusiness Analytics,4,Agriculture,3.15
+STU-0078,Agricultural Technology,2,Quantitative,3.15
+STU-0079,Environmental Informatics,1,Agriculture,2.62
+STU-0080,Data Science for Agriculture,6,Business,3.07
+STU-0081,Agribusiness Analytics,4,Computing,2.33
+STU-0082,Agricultural Technology,4,Agriculture,2.93
+STU-0083,Environmental Informatics,3,Quantitative,3.01
+STU-0084,Data Science for Agriculture,5,Quantitative,2.68
+STU-0085,Agribusiness Analytics,6,Engineering,2.8
+STU-0086,Agricultural Technology,6,Engineering,3.16
+STU-0087,Environmental Informatics,2,Agriculture,2.95
+STU-0088,Data Science for Agriculture,4,Computing,2.82
+STU-0089,Agribusiness Analytics,2,Computing,3.22
+STU-0090,Agricultural Technology,5,Quantitative,2.54
+STU-0091,Environmental Informatics,1,Computing,2.81
+STU-0092,Data Science for Agriculture,4,Quantitative,2.88
+STU-0093,Agribusiness Analytics,5,Agriculture,3.21
+STU-0094,Agricultural Technology,5,Quantitative,3.37
+STU-0095,Environmental Informatics,6,Engineering,3.45
+STU-0096,Data Science for Agriculture,2,Computing,3.72
+STU-0097,Agribusiness Analytics,6,Engineering,3.78
+STU-0098,Agricultural Technology,2,Quantitative,3.14
+STU-0099,Environmental Informatics,3,Computing,2.81
+STU-0100,Data Science for Agriculture,4,Computing,3.45
+STU-0101,Agribusiness Analytics,4,Computing,3.24
+STU-0102,Agricultural Technology,6,Computing,2.7
+STU-0103,Environmental Informatics,5,Business,3.78
+STU-0104,Data Science for Agriculture,3,Business,2.95
+STU-0105,Agribusiness Analytics,3,Business,3.4
+STU-0106,Agricultural Technology,4,Computing,2.14
+STU-0107,Environmental Informatics,3,Computing,3.15
+STU-0108,Data Science for Agriculture,5,Agriculture,3.26
+STU-0109,Agribusiness Analytics,1,Computing,2.17
+STU-0110,Agricultural Technology,6,Business,3.28
+STU-0111,Environmental Informatics,3,Agriculture,2.85
+STU-0112,Data Science for Agriculture,4,Quantitative,2.43
+STU-0113,Agribusiness Analytics,1,Business,3.29
+STU-0114,Agricultural Technology,5,Computing,3.23
+STU-0115,Environmental Informatics,3,Engineering,2.66
+STU-0116,Data Science for Agriculture,6,Computing,3.85
+STU-0117,Agribusiness Analytics,1,Computing,2.85
+STU-0118,Agricultural Technology,2,Computing,3.24
+STU-0119,Environmental Informatics,4,Business,3.34
+STU-0120,Data Science for Agriculture,4,Quantitative,3.43
+STU-0121,Agribusiness Analytics,3,Agriculture,2.61
+STU-0122,Agricultural Technology,2,Business,3.33
+STU-0123,Environmental Informatics,6,Computing,3.33
+STU-0124,Data Science for Agriculture,5,Computing,3.51
+STU-0125,Agribusiness Analytics,6,Computing,2.36
+STU-0126,Agricultural Technology,1,Quantitative,3.81
+STU-0127,Environmental Informatics,6,Computing,2.96
+STU-0128,Data Science for Agriculture,2,Business,2.79
+STU-0129,Agribusiness Analytics,1,Quantitative,3.08
+STU-0130,Agricultural Technology,5,Agriculture,2.65
+STU-0131,Environmental Informatics,3,Agriculture,2.4
+STU-0132,Data Science for Agriculture,6,Agriculture,2.98
+STU-0133,Agribusiness Analytics,3,Computing,3.2
+STU-0134,Agricultural Technology,4,Engineering,2.97
+STU-0135,Environmental Informatics,1,Agriculture,2.11
+STU-0136,Data Science for Agriculture,2,Quantitative,3.47
+STU-0137,Agribusiness Analytics,5,Agriculture,3.47
+STU-0138,Agricultural Technology,5,Quantitative,3.22
+STU-0139,Environmental Informatics,2,Agriculture,3.28
+STU-0140,Data Science for Agriculture,3,Computing,3.17
+STU-0141,Agribusiness Analytics,1,Quantitative,3.19
+STU-0142,Agricultural Technology,2,Agriculture,2.74
+STU-0143,Environmental Informatics,4,Engineering,2.7
+STU-0144,Data Science for Agriculture,2,Engineering,3.21
+STU-0145,Agribusiness Analytics,4,Quantitative,2.6
+STU-0146,Agricultural Technology,2,Engineering,3.86
+STU-0147,Environmental Informatics,6,Quantitative,2.59
+STU-0148,Data Science for Agriculture,5,Engineering,3.55
+STU-0149,Agribusiness Analytics,3,Agriculture,3.41
+STU-0150,Agricultural Technology,6,Engineering,2.77
+STU-0151,Environmental Informatics,5,Quantitative,3.28
+STU-0152,Data Science for Agriculture,2,Business,3.21
+STU-0153,Agribusiness Analytics,4,Agriculture,3.41
+STU-0154,Agricultural Technology,1,Quantitative,3.13
+STU-0155,Environmental Informatics,2,Quantitative,2.5
+STU-0156,Data Science for Agriculture,6,Computing,3.05
+STU-0157,Agribusiness Analytics,4,Business,2.31
+STU-0158,Agricultural Technology,6,Computing,3.14
+STU-0159,Environmental Informatics,4,Agriculture,3.01
+STU-0160,Data Science for Agriculture,3,Agriculture,2.5
+STU-0161,Agribusiness Analytics,4,Engineering,3.73
+STU-0162,Agricultural Technology,5,Engineering,3.38
+STU-0163,Environmental Informatics,5,Business,2.29
+STU-0164,Data Science for Agriculture,4,Computing,2.93
+STU-0165,Agribusiness Analytics,4,Computing,2.74
+STU-0166,Agricultural Technology,5,Computing,2.58
+STU-0167,Environmental Informatics,2,Quantitative,3.9
+STU-0168,Data Science for Agriculture,4,Agriculture,3.08
+STU-0169,Agribusiness Analytics,3,Business,3.55
+STU-0170,Agricultural Technology,6,Computing,3.46
+STU-0171,Environmental Informatics,2,Quantitative,2.93
+STU-0172,Data Science for Agriculture,6,Quantitative,2.53
+STU-0173,Agribusiness Analytics,5,Quantitative,3.08
+STU-0174,Agricultural Technology,5,Engineering,3.0
+STU-0175,Environmental Informatics,3,Business,2.73
+STU-0176,Data Science for Agriculture,6,Agriculture,2.22
+STU-0177,Agribusiness Analytics,5,Business,2.68
+STU-0178,Agricultural Technology,4,Computing,2.76
+STU-0179,Environmental Informatics,1,Quantitative,3.37
+STU-0180,Data Science for Agriculture,5,Computing,3.6
+STU-0181,Agribusiness Analytics,5,Quantitative,3.33
+STU-0182,Agricultural Technology,3,Agriculture,3.14
+STU-0183,Environmental Informatics,4,Engineering,3.16
+STU-0184,Data Science for Agriculture,5,Computing,2.97
+STU-0185,Agribusiness Analytics,3,Quantitative,2.87
+STU-0186,Agricultural Technology,2,Computing,3.3
+STU-0187,Environmental Informatics,4,Quantitative,3.32
+STU-0188,Data Science for Agriculture,5,Agriculture,3.08
+STU-0189,Agribusiness Analytics,6,Quantitative,3.05
+STU-0190,Agricultural Technology,6,Engineering,3.44
+STU-0191,Environmental Informatics,6,Agriculture,3.59
+STU-0192,Data Science for Agriculture,4,Quantitative,2.73
+STU-0193,Agribusiness Analytics,3,Computing,3.34
+STU-0194,Agricultural Technology,3,Engineering,3.12
+STU-0195,Environmental Informatics,3,Quantitative,2.84
+STU-0196,Data Science for Agriculture,3,Quantitative,2.98
+STU-0197,Agribusiness Analytics,3,Computing,2.89
+STU-0198,Agricultural Technology,3,Agriculture,2.03
+STU-0199,Environmental Informatics,4,Agriculture,3.3
+STU-0200,Data Science for Agriculture,6,Business,3.29
+STU-0201,Agribusiness Analytics,6,Business,2.77
+STU-0202,Agricultural Technology,5,Agriculture,3.49
+STU-0203,Environmental Informatics,6,Quantitative,2.98
+STU-0204,Data Science for Agriculture,5,Quantitative,3.37
+STU-0205,Agribusiness Analytics,1,Quantitative,3.56
+STU-0206,Agricultural Technology,3,Quantitative,3.04
+STU-0207,Environmental Informatics,4,Quantitative,3.18
+STU-0208,Data Science for Agriculture,1,Computing,3.86
+STU-0209,Agribusiness Analytics,6,Quantitative,3.14
+STU-0210,Agricultural Technology,5,Business,3.19
+STU-0211,Environmental Informatics,1,Business,3.8
+STU-0212,Data Science for Agriculture,6,Agriculture,2.14
+STU-0213,Agribusiness Analytics,5,Agriculture,3.27
+STU-0214,Agricultural Technology,5,Quantitative,2.97
+STU-0215,Environmental Informatics,5,Computing,2.2
+STU-0216,Data Science for Agriculture,4,Business,3.25
+STU-0217,Agribusiness Analytics,6,Agriculture,2.96
+STU-0218,Agricultural Technology,3,Computing,3.66
+STU-0219,Environmental Informatics,5,Agriculture,2.89
+STU-0220,Data Science for Agriculture,2,Agriculture,3.12
+STU-0221,Agribusiness Analytics,5,Agriculture,3.23
+STU-0222,Agricultural Technology,3,Computing,3.38
+STU-0223,Environmental Informatics,5,Agriculture,3.83
+STU-0224,Data Science for Agriculture,5,Engineering,2.95
+STU-0225,Agribusiness Analytics,4,Engineering,3.06
+STU-0226,Agricultural Technology,4,Engineering,2.09
+STU-0227,Environmental Informatics,1,Engineering,3.49
+STU-0228,Data Science for Agriculture,5,Quantitative,2.62
+STU-0229,Agribusiness Analytics,3,Agriculture,3.31
+STU-0230,Agricultural Technology,4,Engineering,3.13
+STU-0231,Environmental Informatics,5,Agriculture,2.65
+STU-0232,Data Science for Agriculture,4,Agriculture,3.16
+STU-0233,Agribusiness Analytics,6,Computing,3.65
+STU-0234,Agricultural Technology,4,Quantitative,2.83
+STU-0235,Environmental Informatics,4,Engineering,2.63
+STU-0236,Data Science for Agriculture,5,Agriculture,3.01
+STU-0237,Agribusiness Analytics,3,Agriculture,3.22
+STU-0238,Agricultural Technology,5,Quantitative,3.26
+STU-0239,Environmental Informatics,2,Agriculture,2.67
+STU-0240,Data Science for Agriculture,6,Engineering,2.87
+STU-0241,Agribusiness Analytics,3,Engineering,2.5
+STU-0242,Agricultural Technology,3,Computing,3.06
+STU-0243,Environmental Informatics,5,Computing,2.8
+STU-0244,Data Science for Agriculture,6,Agriculture,3.57
+STU-0245,Agribusiness Analytics,2,Computing,2.99
+STU-0246,Agricultural Technology,4,Business,3.27
+STU-0247,Environmental Informatics,6,Engineering,3.39
+STU-0248,Data Science for Agriculture,4,Computing,2.97
+STU-0249,Agribusiness Analytics,1,Agriculture,2.91
+STU-0250,Agricultural Technology,1,Business,2.98
+STU-0251,Environmental Informatics,4,Computing,2.74
+STU-0252,Data Science for Agriculture,2,Agriculture,3.25
+STU-0253,Agribusiness Analytics,4,Agriculture,3.0
+STU-0254,Agricultural Technology,1,Engineering,2.45
+STU-0255,Environmental Informatics,4,Quantitative,3.09
+STU-0256,Data Science for Agriculture,4,Agriculture,2.98
+STU-0257,Agribusiness Analytics,3,Business,3.0
+STU-0258,Agricultural Technology,5,Quantitative,2.66
+STU-0259,Environmental Informatics,5,Agriculture,3.05
+STU-0260,Data Science for Agriculture,2,Quantitative,2.93
+STU-0261,Agribusiness Analytics,5,Business,2.06
+STU-0262,Agricultural Technology,1,Quantitative,2.84
+STU-0263,Environmental Informatics,1,Computing,3.1
+STU-0264,Data Science for Agriculture,4,Business,3.3
+STU-0265,Agribusiness Analytics,6,Computing,3.19
+STU-0266,Agricultural Technology,2,Quantitative,2.64
+STU-0267,Environmental Informatics,5,Quantitative,2.83
+STU-0268,Data Science for Agriculture,4,Agriculture,3.01
+STU-0269,Agribusiness Analytics,5,Engineering,3.39
+STU-0270,Agricultural Technology,5,Agriculture,3.02
+STU-0271,Environmental Informatics,5,Quantitative,3.41
+STU-0272,Data Science for Agriculture,3,Engineering,2.33
+STU-0273,Agribusiness Analytics,1,Quantitative,3.33
+STU-0274,Agricultural Technology,6,Computing,3.08
+STU-0275,Environmental Informatics,5,Quantitative,3.12
+STU-0276,Data Science for Agriculture,2,Agriculture,2.95
+STU-0277,Agribusiness Analytics,4,Quantitative,3.27
+STU-0278,Agricultural Technology,4,Engineering,3.16
+STU-0279,Environmental Informatics,4,Computing,3.48
+STU-0280,Data Science for Agriculture,3,Quantitative,3.26
+STU-0281,Agribusiness Analytics,3,Computing,2.67
+STU-0282,Agricultural Technology,6,Agriculture,3.6
+STU-0283,Environmental Informatics,4,Quantitative,2.26
+STU-0284,Data Science for Agriculture,3,Engineering,3.15
+STU-0285,Agribusiness Analytics,5,Computing,3.18
+STU-0286,Agricultural Technology,2,Computing,2.35
+STU-0287,Environmental Informatics,6,Quantitative,3.19
+STU-0288,Data Science for Agriculture,2,Quantitative,2.95
+STU-0289,Agribusiness Analytics,4,Agriculture,3.31
+STU-0290,Agricultural Technology,6,Computing,3.9
+STU-0291,Environmental Informatics,5,Computing,2.83
+STU-0292,Data Science for Agriculture,1,Agriculture,2.71
+STU-0293,Agribusiness Analytics,4,Engineering,2.92
+STU-0294,Agricultural Technology,3,Agriculture,2.76
+STU-0295,Environmental Informatics,5,Quantitative,2.99
+STU-0296,Data Science for Agriculture,3,Computing,2.56
+STU-0297,Agribusiness Analytics,3,Engineering,3.14
+STU-0298,Agricultural Technology,5,Computing,2.88
+STU-0299,Environmental Informatics,3,Computing,2.7
+STU-0300,Data Science for Agriculture,6,Business,3.3
+STU-0301,Agribusiness Analytics,3,Agriculture,3.35
+STU-0302,Agricultural Technology,5,Business,3.13
+STU-0303,Environmental Informatics,5,Computing,3.84
+STU-0304,Data Science for Agriculture,4,Computing,2.9
+STU-0305,Agribusiness Analytics,5,Business,2.19
+STU-0306,Agricultural Technology,2,Computing,2.46
+STU-0307,Environmental Informatics,6,Agriculture,2.93
+STU-0308,Data Science for Agriculture,3,Agriculture,3.02
+STU-0309,Agribusiness Analytics,3,Business,3.22
+STU-0310,Agricultural Technology,1,Engineering,2.37
+STU-0311,Environmental Informatics,4,Computing,2.31
+STU-0312,Data Science for Agriculture,4,Computing,3.9
+STU-0313,Agribusiness Analytics,5,Engineering,2.68
+STU-0314,Agricultural Technology,5,Business,3.16
+STU-0315,Environmental Informatics,1,Agriculture,3.27
+STU-0316,Data Science for Agriculture,5,Computing,3.01
+STU-0317,Agribusiness Analytics,5,Engineering,3.21
+STU-0318,Agricultural Technology,4,Agriculture,3.22
+STU-0319,Environmental Informatics,6,Quantitative,3.56
+STU-0320,Data Science for Agriculture,1,Agriculture,2.51
+STU-0321,Agribusiness Analytics,1,Agriculture,2.37
+STU-0322,Agricultural Technology,4,Quantitative,2.76
+STU-0323,Environmental Informatics,5,Computing,2.56
+STU-0324,Data Science for Agriculture,4,Agriculture,3.64
+STU-0325,Agribusiness Analytics,5,Business,3.18
+STU-0326,Agricultural Technology,6,Computing,2.65
+STU-0327,Environmental Informatics,1,Computing,3.39
+STU-0328,Data Science for Agriculture,6,Agriculture,2.61
+STU-0329,Agribusiness Analytics,3,Quantitative,2.59
+STU-0330,Agricultural Technology,1,Computing,3.39
+STU-0331,Environmental Informatics,6,Quantitative,3.44
+STU-0332,Data Science for Agriculture,1,Business,2.78
+STU-0333,Agribusiness Analytics,3,Computing,2.92
+STU-0334,Agricultural Technology,5,Quantitative,3.41
+STU-0335,Environmental Informatics,3,Computing,3.16
+STU-0336,Data Science for Agriculture,3,Computing,2.57
+STU-0337,Agribusiness Analytics,5,Quantitative,3.26
+STU-0338,Agricultural Technology,5,Agriculture,3.57
+STU-0339,Environmental Informatics,5,Quantitative,3.17
+STU-0340,Data Science for Agriculture,2,Computing,3.32
+STU-0341,Agribusiness Analytics,6,Quantitative,3.03
+STU-0342,Agricultural Technology,5,Quantitative,2.5
+STU-0343,Environmental Informatics,2,Quantitative,2.9
+STU-0344,Data Science for Agriculture,5,Computing,3.37
+STU-0345,Agribusiness Analytics,6,Computing,2.7
+STU-0346,Agricultural Technology,1,Engineering,2.6
+STU-0347,Environmental Informatics,5,Agriculture,2.5
+STU-0348,Data Science for Agriculture,6,Agriculture,2.59
+STU-0349,Agribusiness Analytics,6,Business,3.13
+STU-0350,Agricultural Technology,5,Computing,3.23
+STU-0351,Environmental Informatics,3,Agriculture,3.08
+STU-0352,Data Science for Agriculture,2,Business,2.55
+STU-0353,Agribusiness Analytics,4,Computing,2.97
+STU-0354,Agricultural Technology,5,Business,3.44
+STU-0355,Environmental Informatics,5,Business,2.08
+STU-0356,Data Science for Agriculture,1,Business,2.74
+STU-0357,Agribusiness Analytics,1,Computing,3.44
+STU-0358,Agricultural Technology,2,Computing,2.82
+STU-0359,Environmental Informatics,2,Computing,3.32
+STU-0360,Data Science for Agriculture,6,Business,2.58
+STU-0361,Agribusiness Analytics,4,Agriculture,2.97
+STU-0362,Agricultural Technology,3,Computing,3.27
+STU-0363,Environmental Informatics,5,Computing,3.24
+STU-0364,Data Science for Agriculture,3,Agriculture,3.06
+STU-0365,Agribusiness Analytics,4,Business,3.12
+STU-0366,Agricultural Technology,3,Agriculture,3.47
+STU-0367,Environmental Informatics,5,Quantitative,3.22
+STU-0368,Data Science for Agriculture,3,Computing,2.82
+STU-0369,Agribusiness Analytics,2,Quantitative,2.66
+STU-0370,Agricultural Technology,3,Computing,2.03
+STU-0371,Environmental Informatics,4,Engineering,2.83
+STU-0372,Data Science for Agriculture,5,Business,3.18
+STU-0373,Agribusiness Analytics,1,Computing,2.2
+STU-0374,Agricultural Technology,5,Engineering,2.48
+STU-0375,Environmental Informatics,4,Computing,3.39
+STU-0376,Data Science for Agriculture,3,Computing,2.86
+STU-0377,Agribusiness Analytics,6,Computing,2.76
+STU-0378,Agricultural Technology,6,Computing,3.0
+STU-0379,Environmental Informatics,4,Agriculture,3.24
+STU-0380,Data Science for Agriculture,2,Computing,3.02
+STU-0381,Agribusiness Analytics,4,Computing,3.81
+STU-0382,Agricultural Technology,5,Computing,3.12
+STU-0383,Environmental Informatics,4,Quantitative,3.1
+STU-0384,Data Science for Agriculture,4,Agriculture,3.18
+STU-0385,Agribusiness Analytics,6,Engineering,3.67
+STU-0386,Agricultural Technology,6,Computing,2.6
+STU-0387,Environmental Informatics,3,Quantitative,3.44
+STU-0388,Data Science for Agriculture,2,Business,2.37
+STU-0389,Agribusiness Analytics,2,Quantitative,3.3
+STU-0390,Agricultural Technology,3,Quantitative,3.15
+STU-0391,Environmental Informatics,6,Computing,2.75
+STU-0392,Data Science for Agriculture,4,Quantitative,2.75
+STU-0393,Agribusiness Analytics,5,Agriculture,3.23
+STU-0394,Agricultural Technology,3,Computing,3.55
+STU-0395,Environmental Informatics,2,Engineering,3.17
+STU-0396,Data Science for Agriculture,5,Computing,2.53
+STU-0397,Agribusiness Analytics,1,Engineering,3.12
+STU-0398,Agricultural Technology,5,Quantitative,3.03
+STU-0399,Environmental Informatics,5,Agriculture,3.55
+STU-0400,Data Science for Agriculture,3,Computing,2.55
+STU-0401,Agribusiness Analytics,3,Quantitative,3.09
+STU-0402,Agricultural Technology,2,Business,3.3
+STU-0403,Environmental Informatics,2,Business,3.2
+STU-0404,Data Science for Agriculture,6,Engineering,2.44
+STU-0405,Agribusiness Analytics,6,Engineering,3.22
+STU-0406,Agricultural Technology,6,Computing,3.9
+STU-0407,Environmental Informatics,6,Agriculture,2.69
+STU-0408,Data Science for Agriculture,6,Computing,3.9
+STU-0409,Agribusiness Analytics,5,Computing,2.65
+STU-0410,Agricultural Technology,6,Engineering,2.52
+STU-0411,Environmental Informatics,3,Computing,2.94
+STU-0412,Data Science for Agriculture,5,Quantitative,3.43
+STU-0413,Agribusiness Analytics,2,Business,3.4
+STU-0414,Agricultural Technology,3,Agriculture,3.13
+STU-0415,Environmental Informatics,6,Computing,2.82
+STU-0416,Data Science for Agriculture,4,Quantitative,2.97
+STU-0417,Agribusiness Analytics,1,Computing,3.09
+STU-0418,Agricultural Technology,1,Quantitative,3.07
+STU-0419,Environmental Informatics,5,Quantitative,3.14
+STU-0420,Data Science for Agriculture,2,Computing,2.33
+STU-0421,Agribusiness Analytics,2,Quantitative,2.99
+STU-0422,Agricultural Technology,3,Agriculture,3.05
+STU-0423,Environmental Informatics,3,Agriculture,3.01
+STU-0424,Data Science for Agriculture,5,Business,3.48
+STU-0425,Agribusiness Analytics,1,Business,2.45
+STU-0426,Agricultural Technology,6,Computing,2.64
+STU-0427,Environmental Informatics,6,Engineering,2.74
+STU-0428,Data Science for Agriculture,5,Business,2.57
+STU-0429,Agribusiness Analytics,3,Business,2.68
+STU-0430,Agricultural Technology,5,Computing,3.31
+STU-0431,Environmental Informatics,4,Engineering,2.87
+STU-0432,Data Science for Agriculture,3,Agriculture,2.66
+STU-0433,Agribusiness Analytics,3,Computing,3.03
+STU-0434,Agricultural Technology,5,Computing,3.21
+STU-0435,Environmental Informatics,6,Computing,3.2
+STU-0436,Data Science for Agriculture,5,Agriculture,3.47
+STU-0437,Agribusiness Analytics,5,Agriculture,3.22
+STU-0438,Agricultural Technology,1,Computing,2.77
+STU-0439,Environmental Informatics,3,Quantitative,2.86
+STU-0440,Data Science for Agriculture,3,Agriculture,2.25
+STU-0441,Agribusiness Analytics,1,Business,3.38
+STU-0442,Agricultural Technology,2,Quantitative,3.9
+STU-0443,Environmental Informatics,6,Computing,3.15
+STU-0444,Data Science for Agriculture,4,Agriculture,2.86
+STU-0445,Agribusiness Analytics,4,Business,2.46
+STU-0446,Agricultural Technology,6,Agriculture,3.33
+STU-0447,Environmental Informatics,1,Business,3.07
+STU-0448,Data Science for Agriculture,2,Quantitative,3.1
+STU-0449,Agribusiness Analytics,1,Computing,2.75
+STU-0450,Agricultural Technology,1,Computing,2.49
+STU-0451,Environmental Informatics,6,Business,2.81
+STU-0452,Data Science for Agriculture,6,Engineering,2.66
+STU-0453,Agribusiness Analytics,5,Business,2.39
+STU-0454,Agricultural Technology,4,Computing,2.57
+STU-0455,Environmental Informatics,6,Agriculture,2.03
+STU-0456,Data Science for Agriculture,4,Quantitative,2.8
+STU-0457,Agribusiness Analytics,1,Quantitative,3.51
+STU-0458,Agricultural Technology,5,Computing,3.85
+STU-0459,Environmental Informatics,2,Computing,3.21
+STU-0460,Data Science for Agriculture,4,Computing,2.92
+STU-0461,Agribusiness Analytics,2,Quantitative,2.64
+STU-0462,Agricultural Technology,6,Agriculture,3.51
+STU-0463,Environmental Informatics,1,Computing,2.87
+STU-0464,Data Science for Agriculture,6,Quantitative,3.0
+STU-0465,Agribusiness Analytics,3,Engineering,2.73
+STU-0466,Agricultural Technology,4,Agriculture,2.67
+STU-0467,Environmental Informatics,4,Agriculture,2.15
+STU-0468,Data Science for Agriculture,1,Computing,3.44
+STU-0469,Agribusiness Analytics,3,Agriculture,2.03
+STU-0470,Agricultural Technology,2,Quantitative,2.73
+STU-0471,Environmental Informatics,6,Computing,2.58
+STU-0472,Data Science for Agriculture,5,Business,2.95
+STU-0473,Agribusiness Analytics,1,Engineering,3.22
+STU-0474,Agricultural Technology,6,Computing,2.2
+STU-0475,Environmental Informatics,2,Quantitative,3.18
+STU-0476,Data Science for Agriculture,1,Computing,3.39
+STU-0477,Agribusiness Analytics,1,Business,3.33
+STU-0478,Agricultural Technology,5,Computing,3.32
+STU-0479,Environmental Informatics,5,Engineering,3.02
+STU-0480,Data Science for Agriculture,4,Agriculture,3.06
+STU-0481,Agribusiness Analytics,2,Computing,2.97
+STU-0482,Agricultural Technology,2,Business,2.37
+STU-0483,Environmental Informatics,1,Quantitative,3.38
+STU-0484,Data Science for Agriculture,2,Computing,2.54
+STU-0485,Agribusiness Analytics,4,Engineering,3.32
+STU-0486,Agricultural Technology,2,Computing,3.69
+STU-0487,Environmental Informatics,3,Business,2.94
+STU-0488,Data Science for Agriculture,4,Computing,3.19
+STU-0489,Agribusiness Analytics,3,Computing,2.93
+STU-0490,Agricultural Technology,1,Computing,2.98
+STU-0491,Environmental Informatics,5,Business,3.28
+STU-0492,Data Science for Agriculture,3,Business,2.48
+STU-0493,Agribusiness Analytics,1,Engineering,3.02
+STU-0494,Agricultural Technology,2,Agriculture,2.42
+STU-0495,Environmental Informatics,3,Computing,3.21
+STU-0496,Data Science for Agriculture,3,Business,2.75
+STU-0497,Agribusiness Analytics,5,Agriculture,3.27
+STU-0498,Agricultural Technology,6,Business,2.71
+STU-0499,Environmental Informatics,3,Agriculture,3.49
+STU-0500,Data Science for Agriculture,4,Computing,3.42
+STU-0501,Agribusiness Analytics,5,Business,3.71
+STU-0502,Agricultural Technology,5,Computing,3.55
+STU-0503,Environmental Informatics,4,Computing,2.86
+STU-0504,Data Science for Agriculture,2,Computing,3.34
+STU-0505,Agribusiness Analytics,5,Agriculture,3.22
+STU-0506,Agricultural Technology,1,Engineering,2.47
+STU-0507,Environmental Informatics,5,Engineering,2.23
+STU-0508,Data Science for Agriculture,5,Computing,3.51
+STU-0509,Agribusiness Analytics,5,Business,3.27
+STU-0510,Agricultural Technology,3,Computing,3.47
+STU-0511,Environmental Informatics,3,Business,3.15
+STU-0512,Data Science for Agriculture,1,Engineering,3.35
+STU-0513,Agribusiness Analytics,6,Computing,2.6
+STU-0514,Agricultural Technology,3,Computing,2.63
+STU-0515,Environmental Informatics,3,Quantitative,2.87
+STU-0516,Data Science for Agriculture,2,Quantitative,2.36
+STU-0517,Agribusiness Analytics,2,Computing,3.03
+STU-0518,Agricultural Technology,1,Computing,3.12
+STU-0519,Environmental Informatics,5,Engineering,2.56
+STU-0520,Data Science for Agriculture,1,Business,2.53
+STU-0521,Agribusiness Analytics,6,Computing,2.77
+STU-0522,Agricultural Technology,2,Computing,2.65
+STU-0523,Environmental Informatics,3,Agriculture,3.11
+STU-0524,Data Science for Agriculture,4,Computing,2.93
+STU-0525,Agribusiness Analytics,5,Computing,3.43
+STU-0526,Agricultural Technology,3,Computing,2.87
+STU-0527,Environmental Informatics,5,Computing,3.29
+STU-0528,Data Science for Agriculture,5,Computing,2.93
+STU-0529,Agribusiness Analytics,4,Computing,2.74
+STU-0530,Agricultural Technology,5,Engineering,2.82
+STU-0531,Environmental Informatics,3,Quantitative,2.81
+STU-0532,Data Science for Agriculture,5,Computing,2.97
+STU-0533,Agribusiness Analytics,2,Quantitative,3.68
+STU-0534,Agricultural Technology,2,Agriculture,2.91
+STU-0535,Environmental Informatics,3,Quantitative,3.35
+STU-0536,Data Science for Agriculture,1,Computing,2.84
+STU-0537,Agribusiness Analytics,4,Computing,2.89
+STU-0538,Agricultural Technology,6,Business,2.84
+STU-0539,Environmental Informatics,3,Agriculture,3.61
+STU-0540,Data Science for Agriculture,2,Quantitative,2.73
+STU-0541,Agribusiness Analytics,2,Engineering,2.52
+STU-0542,Agricultural Technology,5,Computing,3.14
+STU-0543,Environmental Informatics,2,Agriculture,3.03
+STU-0544,Data Science for Agriculture,5,Computing,2.48
+STU-0545,Agribusiness Analytics,4,Computing,3.09
+STU-0546,Agricultural Technology,3,Computing,3.17
+STU-0547,Environmental Informatics,3,Agriculture,3.19
+STU-0548,Data Science for Agriculture,3,Quantitative,2.98
+STU-0549,Agribusiness Analytics,4,Quantitative,2.34
+STU-0550,Agricultural Technology,6,Business,3.05
+STU-0551,Environmental Informatics,5,Agriculture,3.31
+STU-0552,Data Science for Agriculture,5,Engineering,3.27
+STU-0553,Agribusiness Analytics,1,Engineering,2.9
+STU-0554,Agricultural Technology,4,Quantitative,2.6
+STU-0555,Environmental Informatics,4,Quantitative,3.21
+STU-0556,Data Science for Agriculture,2,Computing,3.68
+STU-0557,Agribusiness Analytics,6,Computing,3.87
+STU-0558,Agricultural Technology,3,Computing,2.68
+STU-0559,Environmental Informatics,1,Engineering,2.82
+STU-0560,Data Science for Agriculture,4,Computing,2.61
+STU-0561,Agribusiness Analytics,2,Computing,3.23
+STU-0562,Agricultural Technology,5,Business,2.03
+STU-0563,Environmental Informatics,3,Quantitative,3.07
+STU-0564,Data Science for Agriculture,2,Agriculture,3.0
+STU-0565,Agribusiness Analytics,4,Quantitative,2.03
+STU-0566,Agricultural Technology,2,Quantitative,2.34
+STU-0567,Environmental Informatics,3,Engineering,2.29
+STU-0568,Data Science for Agriculture,5,Business,2.97
+STU-0569,Agribusiness Analytics,3,Agriculture,3.54
+STU-0570,Agricultural Technology,2,Engineering,3.21
+STU-0571,Environmental Informatics,3,Quantitative,2.54
+STU-0572,Data Science for Agriculture,4,Computing,2.97
+STU-0573,Agribusiness Analytics,6,Engineering,2.92
+STU-0574,Agricultural Technology,5,Agriculture,3.73
+STU-0575,Environmental Informatics,3,Business,2.83
+STU-0576,Data Science for Agriculture,3,Quantitative,3.69
+STU-0577,Agribusiness Analytics,1,Quantitative,2.64
+STU-0578,Agricultural Technology,3,Computing,3.29
+STU-0579,Environmental Informatics,3,Quantitative,2.83
+STU-0580,Data Science for Agriculture,2,Quantitative,2.98
+STU-0581,Agribusiness Analytics,4,Business,3.51
+STU-0582,Agricultural Technology,3,Computing,2.97
+STU-0583,Environmental Informatics,5,Business,3.24
+STU-0584,Data Science for Agriculture,5,Computing,3.23
+STU-0585,Agribusiness Analytics,5,Agriculture,3.08
+STU-0586,Agricultural Technology,2,Quantitative,3.58
+STU-0587,Environmental Informatics,1,Quantitative,2.92
+STU-0588,Data Science for Agriculture,5,Quantitative,2.19
+STU-0589,Agribusiness Analytics,3,Quantitative,2.84
+STU-0590,Agricultural Technology,1,Agriculture,2.47
+STU-0591,Environmental Informatics,6,Quantitative,2.69
+STU-0592,Data Science for Agriculture,5,Agriculture,2.67
+STU-0593,Agribusiness Analytics,1,Quantitative,2.59
+STU-0594,Agricultural Technology,1,Engineering,3.07
+STU-0595,Environmental Informatics,4,Quantitative,2.32
+STU-0596,Data Science for Agriculture,1,Computing,2.66
+STU-0597,Agribusiness Analytics,2,Business,2.91
+STU-0598,Agricultural Technology,3,Agriculture,2.9
+STU-0599,Environmental Informatics,5,Agriculture,3.06
+STU-0600,Data Science for Agriculture,3,Agriculture,3.3
+STU-0601,Agribusiness Analytics,2,Agriculture,3.78
+STU-0602,Agricultural Technology,6,Business,2.75
+STU-0603,Environmental Informatics,6,Business,3.05
+STU-0604,Data Science for Agriculture,5,Business,2.98
+STU-0605,Agribusiness Analytics,4,Quantitative,2.71
+STU-0606,Agricultural Technology,1,Agriculture,2.34
+STU-0607,Environmental Informatics,2,Computing,2.95
+STU-0608,Data Science for Agriculture,1,Quantitative,2.85
+STU-0609,Agribusiness Analytics,6,Computing,2.86
+STU-0610,Agricultural Technology,2,Quantitative,3.58
+STU-0611,Environmental Informatics,4,Business,2.94
+STU-0612,Data Science for Agriculture,3,Quantitative,2.58
+STU-0613,Agribusiness Analytics,4,Computing,2.8
+STU-0614,Agricultural Technology,4,Quantitative,2.74
+STU-0615,Environmental Informatics,5,Quantitative,3.09
+STU-0616,Data Science for Agriculture,2,Agriculture,3.53
+STU-0617,Agribusiness Analytics,3,Computing,3.19
+STU-0618,Agricultural Technology,2,Business,2.71
+STU-0619,Environmental Informatics,2,Agriculture,3.3
+STU-0620,Data Science for Agriculture,4,Computing,3.31
+STU-0621,Agribusiness Analytics,3,Computing,2.85
+STU-0622,Agricultural Technology,5,Agriculture,3.61
+STU-0623,Environmental Informatics,1,Computing,3.04
+STU-0624,Data Science for Agriculture,4,Computing,3.04
+STU-0625,Agribusiness Analytics,1,Business,3.17
+STU-0626,Agricultural Technology,4,Business,2.23
+STU-0627,Environmental Informatics,6,Engineering,3.15
+STU-0628,Data Science for Agriculture,6,Computing,3.5
+STU-0629,Agribusiness Analytics,6,Quantitative,2.37
+STU-0630,Agricultural Technology,6,Engineering,2.9
+STU-0631,Environmental Informatics,2,Computing,3.31
+STU-0632,Data Science for Agriculture,5,Quantitative,3.29
+STU-0633,Agribusiness Analytics,4,Agriculture,2.5
+STU-0634,Agricultural Technology,5,Computing,3.65
+STU-0635,Environmental Informatics,6,Engineering,3.09
+STU-0636,Data Science for Agriculture,2,Engineering,2.54
+STU-0637,Agribusiness Analytics,6,Agriculture,3.25
+STU-0638,Agricultural Technology,4,Computing,2.69
+STU-0639,Environmental Informatics,5,Computing,2.71
+STU-0640,Data Science for Agriculture,4,Computing,2.88
+STU-0641,Agribusiness Analytics,5,Agriculture,3.26
+STU-0642,Agricultural Technology,6,Agriculture,3.09
+STU-0643,Environmental Informatics,2,Computing,2.69
+STU-0644,Data Science for Agriculture,1,Agriculture,3.42
+STU-0645,Agribusiness Analytics,3,Computing,3.5
+STU-0646,Agricultural Technology,4,Computing,2.92
+STU-0647,Environmental Informatics,3,Business,2.38
+STU-0648,Data Science for Agriculture,2,Agriculture,2.28
+STU-0649,Agribusiness Analytics,3,Computing,2.76
+STU-0650,Agricultural Technology,4,Business,3.07
+STU-0651,Environmental Informatics,4,Agriculture,3.74
+STU-0652,Data Science for Agriculture,2,Business,2.57
+STU-0653,Agribusiness Analytics,4,Computing,2.88
+STU-0654,Agricultural Technology,5,Quantitative,3.09
+STU-0655,Environmental Informatics,6,Computing,2.41
+STU-0656,Data Science for Agriculture,6,Agriculture,2.92
+STU-0657,Agribusiness Analytics,3,Business,3.42
+STU-0658,Agricultural Technology,3,Computing,2.58
+STU-0659,Environmental Informatics,1,Computing,3.4
+STU-0660,Data Science for Agriculture,6,Quantitative,3.79
+STU-0661,Agribusiness Analytics,4,Quantitative,3.45
+STU-0662,Agricultural Technology,4,Computing,2.86
+STU-0663,Environmental Informatics,1,Quantitative,3.44
+STU-0664,Data Science for Agriculture,4,Computing,3.76
+STU-0665,Agribusiness Analytics,4,Business,3.36
+STU-0666,Agricultural Technology,5,Computing,2.96
+STU-0667,Environmental Informatics,6,Computing,2.5
+STU-0668,Data Science for Agriculture,4,Quantitative,2.66
+STU-0669,Agribusiness Analytics,4,Agriculture,3.01
+STU-0670,Agricultural Technology,3,Business,3.35
+STU-0671,Environmental Informatics,4,Agriculture,2.82
+STU-0672,Data Science for Agriculture,5,Agriculture,2.71
+STU-0673,Agribusiness Analytics,1,Computing,3.02
+STU-0674,Agricultural Technology,1,Computing,3.7
+STU-0675,Environmental Informatics,6,Quantitative,2.97
+STU-0676,Data Science for Agriculture,6,Quantitative,2.57
+STU-0677,Agribusiness Analytics,6,Agriculture,3.18
+STU-0678,Agricultural Technology,1,Engineering,3.29
+STU-0679,Environmental Informatics,6,Quantitative,2.98
+STU-0680,Data Science for Agriculture,6,Quantitative,2.97
+STU-0681,Agribusiness Analytics,2,Computing,3.0
+STU-0682,Agricultural Technology,3,Agriculture,3.36
+STU-0683,Environmental Informatics,5,Agriculture,3.51
+STU-0684,Data Science for Agriculture,2,Agriculture,3.38
+STU-0685,Agribusiness Analytics,3,Computing,2.57
+STU-0686,Agricultural Technology,2,Quantitative,2.71
+STU-0687,Environmental Informatics,1,Engineering,3.53
+STU-0688,Data Science for Agriculture,3,Quantitative,3.27
+STU-0689,Agribusiness Analytics,3,Computing,2.91
+STU-0690,Agricultural Technology,5,Computing,3.7
+STU-0691,Environmental Informatics,1,Computing,3.06
+STU-0692,Data Science for Agriculture,1,Computing,3.05
+STU-0693,Agribusiness Analytics,5,Quantitative,2.85
+STU-0694,Agricultural Technology,5,Quantitative,3.19
+STU-0695,Environmental Informatics,3,Computing,2.86
+STU-0696,Data Science for Agriculture,3,Computing,3.15
+STU-0697,Agribusiness Analytics,4,Engineering,3.02
+STU-0698,Agricultural Technology,3,Business,2.15
+STU-0699,Environmental Informatics,6,Quantitative,3.72
+STU-0700,Data Science for Agriculture,4,Computing,2.36
+STU-0701,Agribusiness Analytics,5,Agriculture,2.68
+STU-0702,Agricultural Technology,1,Quantitative,3.39
+STU-0703,Environmental Informatics,1,Quantitative,2.84
+STU-0704,Data Science for Agriculture,4,Computing,2.45
+STU-0705,Agribusiness Analytics,5,Computing,2.69
+STU-0706,Agricultural Technology,4,Computing,2.9
+STU-0707,Environmental Informatics,2,Agriculture,2.83
+STU-0708,Data Science for Agriculture,4,Computing,3.24
+STU-0709,Agribusiness Analytics,1,Computing,2.84
+STU-0710,Agricultural Technology,2,Engineering,2.62
+STU-0711,Environmental Informatics,4,Computing,2.58
+STU-0712,Data Science for Agriculture,4,Computing,2.17
+STU-0713,Agribusiness Analytics,6,Computing,3.24
+STU-0714,Agricultural Technology,1,Computing,3.15
+STU-0715,Environmental Informatics,6,Engineering,2.58
+STU-0716,Data Science for Agriculture,3,Engineering,2.68
+STU-0717,Agribusiness Analytics,3,Business,3.75
+STU-0718,Agricultural Technology,2,Business,3.1
+STU-0719,Environmental Informatics,3,Quantitative,3.34
+STU-0720,Data Science for Agriculture,2,Computing,3.24

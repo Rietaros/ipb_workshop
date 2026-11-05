@@ -1,0 +1,81 @@
+course_id,course_name,program,domain,level,credits,difficulty,prerequisite_id,offered_in,max_sections
+C101,Business Mathematics,Agribusiness Analytics,Quantitative,1,2,1.65,,both,3
+C102,Introduction to Agribusiness,Agribusiness Analytics,Business,1,3,2.8,,both,3
+C103,Microeconomics,Agribusiness Analytics,Business,1,3,2.37,,both,3
+C104,Statistics for Business,Agribusiness Analytics,Quantitative,2,3,2.13,,both,3
+C105,Digital Agrimarket,Agribusiness Analytics,Computing,2,2,2.09,,both,3
+C106,Business Data Analysis,Agribusiness Analytics,Computing,2,3,3.18,,both,3
+C107,Supply Chain Planning,Agribusiness Analytics,Business,3,3,3.46,C103,both,3
+C108,Agrifood Marketing,Agribusiness Analytics,Business,3,3,1.64,,both,3
+C109,Econometrics,Agribusiness Analytics,Quantitative,3,2,2.83,,both,3
+C110,Business Intelligence,Agribusiness Analytics,Computing,4,3,1.95,C106,both,3
+C111,Decision Analysis,Agribusiness Analytics,Quantitative,4,3,3.62,,both,3
+C112,Capstone Analytics,Agribusiness Analytics,Computing,4,3,3.5,,both,3
+C113,Sustainable Systems,Agribusiness Analytics,Agriculture,5,2,2.79,C109,both,3
+C114,Data Visualization,Agribusiness Analytics,Computing,5,3,3.08,,both,3
+C115,Operations Research,Agribusiness Analytics,Quantitative,5,3,2.49,,both,3
+C116,Information Systems,Agribusiness Analytics,Computing,6,3,3.26,C112,both,3
+C117,Applied Research Methods,Agribusiness Analytics,Quantitative,6,2,2.32,,both,3
+C118,Innovation Management,Agribusiness Analytics,Business,6,3,2.05,,both,3
+C119,Responsible AI,Agribusiness Analytics,Computing,7,3,1.89,C115,both,3
+C120,Project Studio,Agribusiness Analytics,Engineering,7,3,1.77,,both,3
+C201,Applied Mathematics,Agricultural Technology,Quantitative,1,2,2.51,,both,3
+C202,Introduction to Food Systems,Agricultural Technology,Agriculture,1,3,2.28,,both,3
+C203,Agricultural Chemistry,Agricultural Technology,Agriculture,1,3,2.86,,both,3
+C204,Process Statistics,Agricultural Technology,Quantitative,2,3,1.23,,both,3
+C205,Process Automation,Agricultural Technology,Engineering,2,2,2.32,,both,3
+C206,Food Quality Analytics,Agricultural Technology,Agriculture,2,3,2.11,,both,3
+C207,Agricultural IoT,Agricultural Technology,Computing,3,3,1.69,C203,both,3
+C208,Process Optimization,Agricultural Technology,Engineering,3,3,2.69,,both,3
+C209,Food Safety Systems,Agricultural Technology,Agriculture,3,2,2.29,,both,3
+C210,Quality Control,Agricultural Technology,Engineering,4,3,1.95,C206,both,3
+C211,Industrial Data Analytics,Agricultural Technology,Computing,4,3,1.72,,both,3
+C212,Smart Factory Project,Agricultural Technology,Engineering,4,3,3.39,,both,3
+C213,Sustainable Systems,Agricultural Technology,Agriculture,5,2,3.19,C209,both,3
+C214,Data Visualization,Agricultural Technology,Computing,5,3,2.72,,both,3
+C215,Operations Research,Agricultural Technology,Quantitative,5,3,2.06,,both,3
+C216,Information Systems,Agricultural Technology,Computing,6,3,3.57,C212,both,3
+C217,Applied Research Methods,Agricultural Technology,Quantitative,6,2,2.61,,both,3
+C218,Innovation Management,Agricultural Technology,Business,6,3,2.28,,both,3
+C219,Responsible AI,Agricultural Technology,Computing,7,3,3.45,C215,both,3
+C220,Project Studio,Agricultural Technology,Engineering,7,3,2.0,,both,3
+C301,Quantitative Methods,Environmental Informatics,Quantitative,1,2,2.94,,both,3
+C302,Ecology Fundamentals,Environmental Informatics,Agriculture,1,3,1.98,,both,3
+C303,GIS Foundations,Environmental Informatics,Computing,1,3,1.85,,both,3
+C304,Environmental Statistics,Environmental Informatics,Quantitative,2,3,2.95,,both,3
+C305,Remote Sensing,Environmental Informatics,Computing,2,2,1.77,,both,3
+C306,Climate Data Analysis,Environmental Informatics,Quantitative,2,3,2.43,,both,3
+C307,Geospatial Programming,Environmental Informatics,Computing,3,3,2.65,C303,both,3
+C308,Environmental Modeling,Environmental Informatics,Engineering,3,3,1.67,,both,3
+C309,Spatial Machine Learning,Environmental Informatics,Computing,3,2,3.03,,both,3
+C310,Earth Observation,Environmental Informatics,Computing,4,3,2.57,C306,both,3
+C311,Risk Assessment,Environmental Informatics,Engineering,4,3,2.75,,both,3
+C312,Environmental Analytics Project,Environmental Informatics,Computing,4,3,2.13,,both,3
+C313,Sustainable Systems,Environmental Informatics,Agriculture,5,2,2.25,C309,both,3
+C314,Data Visualization,Environmental Informatics,Computing,5,3,2.44,,both,3
+C315,Operations Research,Environmental Informatics,Quantitative,5,3,2.37,,both,3
+C316,Information Systems,Environmental Informatics,Computing,6,3,2.89,C312,both,3
+C317,Applied Research Methods,Environmental Informatics,Quantitative,6,2,2.64,,both,3
+C318,Innovation Management,Environmental Informatics,Business,6,3,2.24,,both,3
+C319,Responsible AI,Environmental Informatics,Computing,7,3,1.2,C315,both,3
+C320,Project Studio,Environmental Informatics,Engineering,7,3,3.19,,both,3
+C401,Intro to Programming,Data Science for Agriculture,Computing,1,2,2.5,,both,3
+C402,Calculus for Data,Data Science for Agriculture,Quantitative,1,3,2.02,,both,3
+C403,Data Fundamentals,Data Science for Agriculture,Computing,1,3,2.45,,both,3
+C404,Probability & Statistics,Data Science for Agriculture,Quantitative,2,3,1.43,,both,3
+C405,Database Systems,Data Science for Agriculture,Computing,2,2,3.46,,both,3
+C406,Machine Learning,Data Science for Agriculture,Computing,2,3,3.67,,both,3
+C407,Data Engineering,Data Science for Agriculture,Computing,3,3,1.35,C403,both,3
+C408,Applied Optimization,Data Science for Agriculture,Quantitative,3,3,2.1,,both,3
+C409,Computer Vision for Crops,Data Science for Agriculture,Computing,3,2,3.03,,both,3
+C410,Time Series Analytics,Data Science for Agriculture,Quantitative,4,3,1.99,C406,both,3
+C411,Decision Intelligence,Data Science for Agriculture,Computing,4,3,2.62,,both,3
+C412,AI Agriculture Capstone,Data Science for Agriculture,Agriculture,4,3,2.24,,both,3
+C413,Sustainable Systems,Data Science for Agriculture,Agriculture,5,2,3.14,C409,both,3
+C414,Data Visualization,Data Science for Agriculture,Computing,5,3,3.6,,both,3
+C415,Operations Research,Data Science for Agriculture,Quantitative,5,3,3.42,,both,3
+C416,Information Systems,Data Science for Agriculture,Computing,6,3,2.75,C412,both,3
+C417,Applied Research Methods,Data Science for Agriculture,Quantitative,6,2,1.6,,both,3
+C418,Innovation Management,Data Science for Agriculture,Business,6,3,3.57,,both,3
+C419,Responsible AI,Data Science for Agriculture,Computing,7,3,1.26,C415,both,3
+C420,Project Studio,Data Science for Agriculture,Engineering,7,3,1.94,,both,3

@@ -1,0 +1,721 @@
+term,course_id,course_name,program,capacity,weekday,time_slot,offered,actual_enrollments,low_grade_rate
+1,C101,Business Mathematics,Agribusiness Analytics,26,Wed,13:00,1,6.0,0.0
+1,C102,Introduction to Agribusiness,Agribusiness Analytics,28,Wed,13:00,1,7.0,0.14285714285714285
+1,C103,Microeconomics,Agribusiness Analytics,31,Wed,13:00,1,7.0,0.14285714285714285
+1,C104,Statistics for Business,Agribusiness Analytics,27,Thu,15:00,1,7.0,0.0
+1,C105,Digital Agrimarket,Agribusiness Analytics,42,Thu,15:00,1,13.0,0.07692307692307693
+1,C106,Business Data Analysis,Agribusiness Analytics,38,Thu,15:00,1,6.0,0.0
+1,C107,Supply Chain Planning,Agribusiness Analytics,17,Fri,08:00,1,0.0,0.0
+1,C108,Agrifood Marketing,Agribusiness Analytics,29,Fri,08:00,1,4.0,0.25
+1,C109,Econometrics,Agribusiness Analytics,31,Fri,08:00,1,15.0,0.3333333333333333
+1,C110,Business Intelligence,Agribusiness Analytics,20,Mon,10:00,1,0.0,0.0
+1,C111,Decision Analysis,Agribusiness Analytics,25,Mon,10:00,1,0.0,0.0
+1,C112,Capstone Analytics,Agribusiness Analytics,12,Mon,10:00,1,0.0,0.0
+1,C113,Sustainable Systems,Agribusiness Analytics,13,Tue,13:00,1,0.0,0.0
+1,C114,Data Visualization,Agribusiness Analytics,26,Tue,13:00,1,0.0,0.0
+1,C115,Operations Research,Agribusiness Analytics,24,Tue,13:00,1,0.0,0.0
+1,C116,Information Systems,Agribusiness Analytics,30,Wed,15:00,1,0.0,0.0
+1,C117,Applied Research Methods,Agribusiness Analytics,27,Wed,15:00,1,0.0,0.0
+1,C118,Innovation Management,Agribusiness Analytics,12,Wed,15:00,1,0.0,0.0
+1,C119,Responsible AI,Agribusiness Analytics,24,Thu,08:00,1,0.0,0.0
+1,C120,Project Studio,Agribusiness Analytics,17,Thu,08:00,1,0.0,0.0
+1,C201,Applied Mathematics,Agricultural Technology,29,Fri,13:00,1,13.0,0.0
+1,C202,Introduction to Food Systems,Agricultural Technology,28,Fri,13:00,1,4.0,0.25
+1,C203,Agricultural Chemistry,Agricultural Technology,26,Fri,13:00,1,3.0,0.0
+1,C204,Process Statistics,Agricultural Technology,26,Mon,15:00,1,12.0,0.0
+1,C205,Process Automation,Agricultural Technology,32,Mon,15:00,1,8.0,0.125
+1,C206,Food Quality Analytics,Agricultural Technology,25,Mon,15:00,1,1.0,1.0
+1,C207,Agricultural IoT,Agricultural Technology,29,Tue,08:00,1,0.0,0.0
+1,C208,Process Optimization,Agricultural Technology,31,Tue,08:00,1,7.0,0.0
+1,C209,Food Safety Systems,Agricultural Technology,25,Tue,08:00,1,5.0,0.4
+1,C210,Quality Control,Agricultural Technology,17,Wed,10:00,1,0.0,0.0
+1,C211,Industrial Data Analytics,Agricultural Technology,24,Wed,10:00,1,0.0,0.0
+1,C212,Smart Factory Project,Agricultural Technology,12,Wed,10:00,1,0.0,0.0
+1,C213,Sustainable Systems,Agricultural Technology,15,Thu,13:00,1,0.0,0.0
+1,C214,Data Visualization,Agricultural Technology,12,Thu,13:00,1,0.0,0.0
+1,C215,Operations Research,Agricultural Technology,20,Thu,13:00,1,0.0,0.0
+1,C216,Information Systems,Agricultural Technology,32,Fri,15:00,1,0.0,0.0
+1,C217,Applied Research Methods,Agricultural Technology,12,Fri,15:00,1,0.0,0.0
+1,C218,Innovation Management,Agricultural Technology,25,Fri,15:00,1,0.0,0.0
+1,C219,Responsible AI,Agricultural Technology,26,Mon,08:00,1,0.0,0.0
+1,C220,Project Studio,Agricultural Technology,12,Mon,08:00,1,0.0,0.0
+1,C301,Quantitative Methods,Environmental Informatics,21,Tue,13:00,1,6.0,0.16666666666666666
+1,C302,Ecology Fundamentals,Environmental Informatics,28,Tue,13:00,1,5.0,0.4
+1,C303,GIS Foundations,Environmental Informatics,23,Tue,13:00,1,6.0,0.16666666666666666
+1,C304,Environmental Statistics,Environmental Informatics,29,Wed,15:00,1,3.0,0.3333333333333333
+1,C305,Remote Sensing,Environmental Informatics,35,Wed,15:00,1,15.0,0.13333333333333333
+1,C306,Climate Data Analysis,Environmental Informatics,32,Wed,15:00,1,5.0,0.0
+1,C307,Geospatial Programming,Environmental Informatics,27,Thu,08:00,1,0.0,0.0
+1,C308,Environmental Modeling,Environmental Informatics,31,Thu,08:00,1,3.0,0.0
+1,C309,Spatial Machine Learning,Environmental Informatics,30,Thu,08:00,1,8.0,0.125
+1,C310,Earth Observation,Environmental Informatics,12,Fri,10:00,1,0.0,0.0
+1,C311,Risk Assessment,Environmental Informatics,15,Fri,10:00,1,0.0,0.0
+1,C312,Environmental Analytics Project,Environmental Informatics,21,Fri,10:00,1,0.0,0.0
+1,C313,Sustainable Systems,Environmental Informatics,18,Mon,13:00,1,0.0,0.0
+1,C314,Data Visualization,Environmental Informatics,20,Mon,13:00,1,0.0,0.0
+1,C315,Operations Research,Environmental Informatics,23,Mon,13:00,1,0.0,0.0
+1,C316,Information Systems,Environmental Informatics,12,Tue,15:00,1,0.0,0.0
+1,C317,Applied Research Methods,Environmental Informatics,26,Tue,15:00,1,0.0,0.0
+1,C318,Innovation Management,Environmental Informatics,12,Tue,15:00,1,0.0,0.0
+1,C319,Responsible AI,Environmental Informatics,18,Wed,08:00,1,0.0,0.0
+1,C320,Project Studio,Environmental Informatics,19,Wed,08:00,1,0.0,0.0
+1,C401,Intro to Programming,Data Science for Agriculture,27,Thu,13:00,1,9.0,0.0
+1,C402,Calculus for Data,Data Science for Agriculture,29,Thu,13:00,1,3.0,0.0
+1,C403,Data Fundamentals,Data Science for Agriculture,25,Thu,13:00,1,5.0,0.0
+1,C404,Probability & Statistics,Data Science for Agriculture,24,Fri,15:00,1,6.0,0.0
+1,C405,Database Systems,Data Science for Agriculture,28,Fri,15:00,1,6.0,0.3333333333333333
+1,C406,Machine Learning,Data Science for Agriculture,29,Fri,15:00,1,6.0,0.3333333333333333
+1,C407,Data Engineering,Data Science for Agriculture,25,Mon,08:00,1,0.0,0.0
+1,C408,Applied Optimization,Data Science for Agriculture,30,Mon,08:00,1,4.0,0.0
+1,C409,Computer Vision for Crops,Data Science for Agriculture,24,Mon,08:00,1,4.0,0.0
+1,C410,Time Series Analytics,Data Science for Agriculture,15,Tue,10:00,1,0.0,0.0
+1,C411,Decision Intelligence,Data Science for Agriculture,17,Tue,10:00,1,0.0,0.0
+1,C412,AI Agriculture Capstone,Data Science for Agriculture,21,Tue,10:00,1,0.0,0.0
+1,C413,Sustainable Systems,Data Science for Agriculture,17,Wed,13:00,1,0.0,0.0
+1,C414,Data Visualization,Data Science for Agriculture,20,Wed,13:00,1,0.0,0.0
+1,C415,Operations Research,Data Science for Agriculture,26,Wed,13:00,1,0.0,0.0
+1,C416,Information Systems,Data Science for Agriculture,16,Thu,15:00,1,0.0,0.0
+1,C417,Applied Research Methods,Data Science for Agriculture,25,Thu,15:00,1,0.0,0.0
+1,C418,Innovation Management,Data Science for Agriculture,12,Thu,15:00,1,0.0,0.0
+1,C419,Responsible AI,Data Science for Agriculture,22,Fri,08:00,1,0.0,0.0
+1,C420,Project Studio,Data Science for Agriculture,17,Fri,08:00,1,0.0,0.0
+2,C101,Business Mathematics,Agribusiness Analytics,39,Thu,15:00,1,19.0,0.10526315789473684
+2,C102,Introduction to Agribusiness,Agribusiness Analytics,25,Thu,15:00,1,3.0,0.0
+2,C103,Microeconomics,Agribusiness Analytics,24,Thu,15:00,1,9.0,0.0
+2,C104,Statistics for Business,Agribusiness Analytics,33,Fri,08:00,1,12.0,0.0
+2,C105,Digital Agrimarket,Agribusiness Analytics,30,Fri,08:00,1,17.0,0.11764705882352941
+2,C106,Business Data Analysis,Agribusiness Analytics,28,Fri,08:00,1,12.0,0.25
+2,C107,Supply Chain Planning,Agribusiness Analytics,16,Mon,10:00,1,2.0,0.0
+2,C108,Agrifood Marketing,Agribusiness Analytics,30,Mon,10:00,1,10.0,0.2
+2,C109,Econometrics,Agribusiness Analytics,27,Mon,10:00,1,12.0,0.08333333333333333
+2,C110,Business Intelligence,Agribusiness Analytics,19,Tue,13:00,1,1.0,0.0
+2,C111,Decision Analysis,Agribusiness Analytics,14,Tue,13:00,1,8.0,0.25
+2,C112,Capstone Analytics,Agribusiness Analytics,25,Tue,13:00,1,6.0,0.16666666666666666
+2,C113,Sustainable Systems,Agribusiness Analytics,18,Wed,15:00,1,0.0,0.0
+2,C114,Data Visualization,Agribusiness Analytics,17,Wed,15:00,1,0.0,0.0
+2,C115,Operations Research,Agribusiness Analytics,12,Wed,15:00,1,0.0,0.0
+2,C116,Information Systems,Agribusiness Analytics,17,Thu,08:00,1,0.0,0.0
+2,C117,Applied Research Methods,Agribusiness Analytics,13,Thu,08:00,1,0.0,0.0
+2,C118,Innovation Management,Agribusiness Analytics,25,Thu,08:00,1,0.0,0.0
+2,C119,Responsible AI,Agribusiness Analytics,20,Fri,10:00,1,0.0,0.0
+2,C120,Project Studio,Agribusiness Analytics,15,Fri,10:00,1,0.0,0.0
+2,C201,Applied Mathematics,Agricultural Technology,27,Mon,15:00,1,18.0,0.1111111111111111
+2,C202,Introduction to Food Systems,Agricultural Technology,35,Mon,15:00,1,13.0,0.07692307692307693
+2,C203,Agricultural Chemistry,Agricultural Technology,29,Mon,15:00,1,10.0,0.4
+2,C204,Process Statistics,Agricultural Technology,28,Tue,08:00,1,18.0,0.0
+2,C205,Process Automation,Agricultural Technology,37,Tue,08:00,1,11.0,0.0
+2,C206,Food Quality Analytics,Agricultural Technology,30,Tue,08:00,1,11.0,0.0
+2,C207,Agricultural IoT,Agricultural Technology,32,Wed,10:00,1,2.0,0.0
+2,C208,Process Optimization,Agricultural Technology,26,Wed,10:00,1,16.0,0.0625
+2,C209,Food Safety Systems,Agricultural Technology,26,Wed,10:00,1,10.0,0.3
+2,C210,Quality Control,Agricultural Technology,22,Thu,13:00,1,0.0,0.0
+2,C211,Industrial Data Analytics,Agricultural Technology,18,Thu,13:00,1,12.0,0.08333333333333333
+2,C212,Smart Factory Project,Agricultural Technology,20,Thu,13:00,1,2.0,0.0
+2,C213,Sustainable Systems,Agricultural Technology,18,Fri,15:00,1,0.0,0.0
+2,C214,Data Visualization,Agricultural Technology,18,Fri,15:00,1,0.0,0.0
+2,C215,Operations Research,Agricultural Technology,18,Fri,15:00,1,0.0,0.0
+2,C216,Information Systems,Agricultural Technology,12,Mon,08:00,1,0.0,0.0
+2,C217,Applied Research Methods,Agricultural Technology,25,Mon,08:00,1,0.0,0.0
+2,C218,Innovation Management,Agricultural Technology,15,Mon,08:00,1,0.0,0.0
+2,C219,Responsible AI,Agricultural Technology,12,Tue,10:00,1,0.0,0.0
+2,C220,Project Studio,Agricultural Technology,19,Tue,10:00,1,0.0,0.0
+2,C301,Quantitative Methods,Environmental Informatics,25,Wed,15:00,1,13.0,0.23076923076923078
+2,C302,Ecology Fundamentals,Environmental Informatics,34,Wed,15:00,1,13.0,0.15384615384615385
+2,C303,GIS Foundations,Environmental Informatics,31,Wed,15:00,1,13.0,0.0
+2,C304,Environmental Statistics,Environmental Informatics,25,Thu,08:00,1,9.0,0.2222222222222222
+2,C305,Remote Sensing,Environmental Informatics,24,Thu,08:00,1,10.0,0.0
+2,C306,Climate Data Analysis,Environmental Informatics,31,Thu,08:00,1,10.0,0.1
+2,C307,Geospatial Programming,Environmental Informatics,24,Fri,10:00,1,2.0,0.0
+2,C308,Environmental Modeling,Environmental Informatics,21,Fri,10:00,1,10.0,0.2
+2,C309,Spatial Machine Learning,Environmental Informatics,20,Fri,10:00,1,9.0,0.0
+2,C310,Earth Observation,Environmental Informatics,22,Mon,13:00,1,0.0,0.0
+2,C311,Risk Assessment,Environmental Informatics,12,Mon,13:00,1,4.0,0.5
+2,C312,Environmental Analytics Project,Environmental Informatics,12,Mon,13:00,1,3.0,0.0
+2,C313,Sustainable Systems,Environmental Informatics,22,Tue,15:00,1,0.0,0.0
+2,C314,Data Visualization,Environmental Informatics,22,Tue,15:00,1,0.0,0.0
+2,C315,Operations Research,Environmental Informatics,12,Tue,15:00,1,0.0,0.0
+2,C316,Information Systems,Environmental Informatics,15,Wed,08:00,1,0.0,0.0
+2,C317,Applied Research Methods,Environmental Informatics,23,Wed,08:00,1,0.0,0.0
+2,C318,Innovation Management,Environmental Informatics,19,Wed,08:00,1,0.0,0.0
+2,C319,Responsible AI,Environmental Informatics,16,Thu,10:00,1,0.0,0.0
+2,C320,Project Studio,Environmental Informatics,19,Thu,10:00,1,0.0,0.0
+2,C401,Intro to Programming,Data Science for Agriculture,30,Fri,15:00,1,17.0,0.11764705882352941
+2,C402,Calculus for Data,Data Science for Agriculture,22,Fri,15:00,1,13.0,0.07692307692307693
+2,C403,Data Fundamentals,Data Science for Agriculture,23,Fri,15:00,1,12.0,0.25
+2,C404,Probability & Statistics,Data Science for Agriculture,33,Mon,08:00,1,14.0,0.07142857142857142
+2,C405,Database Systems,Data Science for Agriculture,37,Mon,08:00,1,12.0,0.3333333333333333
+2,C406,Machine Learning,Data Science for Agriculture,32,Mon,08:00,1,10.0,0.1
+2,C407,Data Engineering,Data Science for Agriculture,27,Tue,10:00,1,1.0,0.0
+2,C408,Applied Optimization,Data Science for Agriculture,25,Tue,10:00,1,10.0,0.2
+2,C409,Computer Vision for Crops,Data Science for Agriculture,28,Tue,10:00,1,11.0,0.45454545454545453
+2,C410,Time Series Analytics,Data Science for Agriculture,24,Wed,13:00,1,1.0,0.0
+2,C411,Decision Intelligence,Data Science for Agriculture,25,Wed,13:00,1,6.0,0.0
+2,C412,AI Agriculture Capstone,Data Science for Agriculture,18,Wed,13:00,1,3.0,0.0
+2,C413,Sustainable Systems,Data Science for Agriculture,20,Thu,15:00,1,0.0,0.0
+2,C414,Data Visualization,Data Science for Agriculture,12,Thu,15:00,1,0.0,0.0
+2,C415,Operations Research,Data Science for Agriculture,18,Thu,15:00,1,0.0,0.0
+2,C416,Information Systems,Data Science for Agriculture,26,Fri,08:00,1,0.0,0.0
+2,C417,Applied Research Methods,Data Science for Agriculture,18,Fri,08:00,1,0.0,0.0
+2,C418,Innovation Management,Data Science for Agriculture,21,Fri,08:00,1,0.0,0.0
+2,C419,Responsible AI,Data Science for Agriculture,23,Mon,10:00,1,0.0,0.0
+2,C420,Project Studio,Data Science for Agriculture,22,Mon,10:00,1,0.0,0.0
+3,C101,Business Mathematics,Agribusiness Analytics,28,Fri,08:00,1,22.0,0.13636363636363635
+3,C102,Introduction to Agribusiness,Agribusiness Analytics,25,Fri,08:00,1,10.0,0.0
+3,C103,Microeconomics,Agribusiness Analytics,17,Fri,08:00,1,15.0,0.06666666666666667
+3,C104,Statistics for Business,Agribusiness Analytics,22,Mon,10:00,1,22.0,0.2727272727272727
+3,C105,Digital Agrimarket,Agribusiness Analytics,26,Mon,10:00,1,17.0,0.11764705882352941
+3,C106,Business Data Analysis,Agribusiness Analytics,32,Mon,10:00,1,22.0,0.2727272727272727
+3,C107,Supply Chain Planning,Agribusiness Analytics,29,Tue,13:00,1,4.0,0.25
+3,C108,Agrifood Marketing,Agribusiness Analytics,34,Tue,13:00,1,18.0,0.16666666666666666
+3,C109,Econometrics,Agribusiness Analytics,22,Tue,13:00,1,22.0,0.2727272727272727
+3,C110,Business Intelligence,Agribusiness Analytics,12,Wed,15:00,1,6.0,0.16666666666666666
+3,C111,Decision Analysis,Agribusiness Analytics,21,Wed,15:00,1,11.0,0.2727272727272727
+3,C112,Capstone Analytics,Agribusiness Analytics,27,Wed,15:00,1,8.0,0.125
+3,C113,Sustainable Systems,Agribusiness Analytics,19,Thu,08:00,1,5.0,0.6
+3,C114,Data Visualization,Agribusiness Analytics,16,Thu,08:00,1,5.0,0.2
+3,C115,Operations Research,Agribusiness Analytics,23,Thu,08:00,1,8.0,0.5
+3,C116,Information Systems,Agribusiness Analytics,25,Fri,10:00,1,0.0,0.0
+3,C117,Applied Research Methods,Agribusiness Analytics,12,Fri,10:00,1,0.0,0.0
+3,C118,Innovation Management,Agribusiness Analytics,17,Fri,10:00,1,0.0,0.0
+3,C119,Responsible AI,Agribusiness Analytics,23,Mon,13:00,1,0.0,0.0
+3,C120,Project Studio,Agribusiness Analytics,20,Mon,13:00,1,0.0,0.0
+3,C201,Applied Mathematics,Agricultural Technology,24,Tue,08:00,1,13.0,0.23076923076923078
+3,C202,Introduction to Food Systems,Agricultural Technology,26,Tue,08:00,1,19.0,0.21052631578947367
+3,C203,Agricultural Chemistry,Agricultural Technology,24,Tue,08:00,1,15.0,0.26666666666666666
+3,C204,Process Statistics,Agricultural Technology,21,Wed,10:00,1,27.0,0.0
+3,C205,Process Automation,Agricultural Technology,30,Wed,10:00,1,9.0,0.2222222222222222
+3,C206,Food Quality Analytics,Agricultural Technology,21,Wed,10:00,1,20.0,0.2
+3,C207,Agricultural IoT,Agricultural Technology,27,Thu,13:00,1,3.0,0.3333333333333333
+3,C208,Process Optimization,Agricultural Technology,23,Thu,13:00,1,15.0,0.13333333333333333
+3,C209,Food Safety Systems,Agricultural Technology,30,Thu,13:00,1,20.0,0.35
+3,C210,Quality Control,Agricultural Technology,16,Fri,15:00,1,3.0,0.0
+3,C211,Industrial Data Analytics,Agricultural Technology,17,Fri,15:00,1,20.0,0.2
+3,C212,Smart Factory Project,Agricultural Technology,12,Fri,15:00,1,9.0,0.1111111111111111
+3,C213,Sustainable Systems,Agricultural Technology,19,Mon,08:00,1,0.0,0.0
+3,C214,Data Visualization,Agricultural Technology,16,Mon,08:00,1,3.0,0.0
+3,C215,Operations Research,Agricultural Technology,14,Mon,08:00,1,6.0,0.16666666666666666
+3,C216,Information Systems,Agricultural Technology,20,Tue,10:00,1,0.0,0.0
+3,C217,Applied Research Methods,Agricultural Technology,23,Tue,10:00,1,0.0,0.0
+3,C218,Innovation Management,Agricultural Technology,27,Tue,10:00,1,0.0,0.0
+3,C219,Responsible AI,Agricultural Technology,19,Wed,13:00,1,0.0,0.0
+3,C220,Project Studio,Agricultural Technology,19,Wed,13:00,1,0.0,0.0
+3,C301,Quantitative Methods,Environmental Informatics,23,Thu,08:00,1,12.0,0.25
+3,C302,Ecology Fundamentals,Environmental Informatics,24,Thu,08:00,1,22.0,0.2727272727272727
+3,C303,GIS Foundations,Environmental Informatics,34,Thu,08:00,1,17.0,0.17647058823529413
+3,C304,Environmental Statistics,Environmental Informatics,26,Fri,10:00,1,19.0,0.2631578947368421
+3,C305,Remote Sensing,Environmental Informatics,37,Fri,10:00,1,16.0,0.0
+3,C306,Climate Data Analysis,Environmental Informatics,22,Fri,10:00,1,19.0,0.05263157894736842
+3,C307,Geospatial Programming,Environmental Informatics,27,Mon,13:00,1,7.0,0.14285714285714285
+3,C308,Environmental Modeling,Environmental Informatics,27,Mon,13:00,1,12.0,0.0
+3,C309,Spatial Machine Learning,Environmental Informatics,25,Mon,13:00,1,13.0,0.15384615384615385
+3,C310,Earth Observation,Environmental Informatics,17,Tue,15:00,1,1.0,1.0
+3,C311,Risk Assessment,Environmental Informatics,17,Tue,15:00,1,4.0,0.0
+3,C312,Environmental Analytics Project,Environmental Informatics,19,Tue,15:00,1,7.0,0.14285714285714285
+3,C313,Sustainable Systems,Environmental Informatics,18,Wed,08:00,1,0.0,0.0
+3,C314,Data Visualization,Environmental Informatics,23,Wed,08:00,1,9.0,0.3333333333333333
+3,C315,Operations Research,Environmental Informatics,31,Wed,08:00,1,9.0,0.1111111111111111
+3,C316,Information Systems,Environmental Informatics,22,Thu,10:00,1,0.0,0.0
+3,C317,Applied Research Methods,Environmental Informatics,20,Thu,10:00,1,0.0,0.0
+3,C318,Innovation Management,Environmental Informatics,13,Thu,10:00,1,0.0,0.0
+3,C319,Responsible AI,Environmental Informatics,16,Fri,13:00,1,0.0,0.0
+3,C320,Project Studio,Environmental Informatics,12,Fri,13:00,1,0.0,0.0
+3,C401,Intro to Programming,Data Science for Agriculture,30,Mon,08:00,1,11.0,0.2727272727272727
+3,C402,Calculus for Data,Data Science for Agriculture,21,Mon,08:00,1,24.0,0.08333333333333333
+3,C403,Data Fundamentals,Data Science for Agriculture,31,Mon,08:00,1,21.0,0.23809523809523808
+3,C404,Probability & Statistics,Data Science for Agriculture,24,Tue,10:00,1,22.0,0.045454545454545456
+3,C405,Database Systems,Data Science for Agriculture,30,Tue,10:00,1,15.0,0.3333333333333333
+3,C406,Machine Learning,Data Science for Agriculture,31,Tue,10:00,1,18.0,0.3333333333333333
+3,C407,Data Engineering,Data Science for Agriculture,19,Wed,13:00,1,6.0,0.0
+3,C408,Applied Optimization,Data Science for Agriculture,24,Wed,13:00,1,21.0,0.23809523809523808
+3,C409,Computer Vision for Crops,Data Science for Agriculture,30,Wed,13:00,1,17.0,0.17647058823529413
+3,C410,Time Series Analytics,Data Science for Agriculture,21,Thu,15:00,1,2.0,0.0
+3,C411,Decision Intelligence,Data Science for Agriculture,22,Thu,15:00,1,8.0,0.375
+3,C412,AI Agriculture Capstone,Data Science for Agriculture,17,Thu,15:00,1,12.0,0.0
+3,C413,Sustainable Systems,Data Science for Agriculture,18,Fri,08:00,1,0.0,0.0
+3,C414,Data Visualization,Data Science for Agriculture,27,Fri,08:00,1,3.0,0.0
+3,C415,Operations Research,Data Science for Agriculture,19,Fri,08:00,1,4.0,0.5
+3,C416,Information Systems,Data Science for Agriculture,23,Mon,10:00,1,0.0,0.0
+3,C417,Applied Research Methods,Data Science for Agriculture,17,Mon,10:00,1,0.0,0.0
+3,C418,Innovation Management,Data Science for Agriculture,12,Mon,10:00,1,0.0,0.0
+3,C419,Responsible AI,Data Science for Agriculture,21,Tue,13:00,1,0.0,0.0
+3,C420,Project Studio,Data Science for Agriculture,21,Tue,13:00,1,0.0,0.0
+4,C101,Business Mathematics,Agribusiness Analytics,33,Mon,10:00,1,22.0,0.045454545454545456
+4,C102,Introduction to Agribusiness,Agribusiness Analytics,24,Mon,10:00,1,23.0,0.21739130434782608
+4,C103,Microeconomics,Agribusiness Analytics,25,Mon,10:00,1,21.0,0.19047619047619047
+4,C104,Statistics for Business,Agribusiness Analytics,17,Tue,13:00,1,26.0,0.11538461538461539
+4,C105,Digital Agrimarket,Agribusiness Analytics,31,Tue,13:00,1,31.0,0.0967741935483871
+4,C106,Business Data Analysis,Agribusiness Analytics,32,Tue,13:00,1,24.0,0.3333333333333333
+4,C107,Supply Chain Planning,Agribusiness Analytics,25,Wed,15:00,1,3.0,0.3333333333333333
+4,C108,Agrifood Marketing,Agribusiness Analytics,26,Wed,15:00,1,27.0,0.14814814814814814
+4,C109,Econometrics,Agribusiness Analytics,27,Wed,15:00,1,13.0,0.15384615384615385
+4,C110,Business Intelligence,Agribusiness Analytics,26,Thu,08:00,1,13.0,0.07692307692307693
+4,C111,Decision Analysis,Agribusiness Analytics,23,Thu,08:00,1,21.0,0.42857142857142855
+4,C112,Capstone Analytics,Agribusiness Analytics,24,Thu,08:00,1,17.0,0.35294117647058826
+4,C113,Sustainable Systems,Agribusiness Analytics,18,Fri,10:00,1,2.0,0.5
+4,C114,Data Visualization,Agribusiness Analytics,16,Fri,10:00,1,10.0,0.2
+4,C115,Operations Research,Agribusiness Analytics,24,Fri,10:00,1,8.0,0.375
+4,C116,Information Systems,Agribusiness Analytics,12,Mon,13:00,1,1.0,0.0
+4,C117,Applied Research Methods,Agribusiness Analytics,21,Mon,13:00,1,8.0,0.125
+4,C118,Innovation Management,Agribusiness Analytics,12,Mon,13:00,1,7.0,0.14285714285714285
+4,C119,Responsible AI,Agribusiness Analytics,22,Tue,15:00,1,0.0,0.0
+4,C120,Project Studio,Agribusiness Analytics,21,Tue,15:00,1,0.0,0.0
+4,C201,Applied Mathematics,Agricultural Technology,24,Wed,10:00,1,19.0,0.15789473684210525
+4,C202,Introduction to Food Systems,Agricultural Technology,29,Wed,10:00,1,18.0,0.16666666666666666
+4,C203,Agricultural Chemistry,Agricultural Technology,22,Wed,10:00,1,17.0,0.11764705882352941
+4,C204,Process Statistics,Agricultural Technology,23,Thu,13:00,1,24.0,0.041666666666666664
+4,C205,Process Automation,Agricultural Technology,26,Thu,13:00,1,20.0,0.2
+4,C206,Food Quality Analytics,Agricultural Technology,24,Thu,13:00,1,16.0,0.25
+4,C207,Agricultural IoT,Agricultural Technology,33,Fri,15:00,1,2.0,0.0
+4,C208,Process Optimization,Agricultural Technology,39,Fri,15:00,1,23.0,0.17391304347826086
+4,C209,Food Safety Systems,Agricultural Technology,28,Fri,15:00,1,21.0,0.09523809523809523
+4,C210,Quality Control,Agricultural Technology,18,Mon,08:00,1,3.0,0.0
+4,C211,Industrial Data Analytics,Agricultural Technology,22,Mon,08:00,1,20.0,0.1
+4,C212,Smart Factory Project,Agricultural Technology,17,Mon,08:00,1,11.0,0.18181818181818182
+4,C213,Sustainable Systems,Agricultural Technology,21,Tue,10:00,1,3.0,0.0
+4,C214,Data Visualization,Agricultural Technology,12,Tue,10:00,1,17.0,0.23529411764705882
+4,C215,Operations Research,Agricultural Technology,15,Tue,10:00,1,19.0,0.15789473684210525
+4,C216,Information Systems,Agricultural Technology,12,Wed,13:00,1,3.0,0.3333333333333333
+4,C217,Applied Research Methods,Agricultural Technology,12,Wed,13:00,1,7.0,0.14285714285714285
+4,C218,Innovation Management,Agricultural Technology,23,Wed,13:00,1,6.0,0.3333333333333333
+4,C219,Responsible AI,Agricultural Technology,17,Thu,15:00,1,0.0,0.0
+4,C220,Project Studio,Agricultural Technology,26,Thu,15:00,1,0.0,0.0
+4,C301,Quantitative Methods,Environmental Informatics,36,Fri,10:00,1,18.0,0.2222222222222222
+4,C302,Ecology Fundamentals,Environmental Informatics,28,Fri,10:00,1,18.0,0.05555555555555555
+4,C303,GIS Foundations,Environmental Informatics,26,Fri,10:00,1,21.0,0.09523809523809523
+4,C304,Environmental Statistics,Environmental Informatics,24,Mon,13:00,1,28.0,0.07142857142857142
+4,C305,Remote Sensing,Environmental Informatics,16,Mon,13:00,1,25.0,0.08
+4,C306,Climate Data Analysis,Environmental Informatics,25,Mon,13:00,1,22.0,0.2727272727272727
+4,C307,Geospatial Programming,Environmental Informatics,27,Tue,15:00,1,6.0,0.0
+4,C308,Environmental Modeling,Environmental Informatics,25,Tue,15:00,1,17.0,0.058823529411764705
+4,C309,Spatial Machine Learning,Environmental Informatics,23,Tue,15:00,1,16.0,0.125
+4,C310,Earth Observation,Environmental Informatics,18,Wed,08:00,1,5.0,0.2
+4,C311,Risk Assessment,Environmental Informatics,16,Wed,08:00,1,10.0,0.2
+4,C312,Environmental Analytics Project,Environmental Informatics,19,Wed,08:00,1,21.0,0.2857142857142857
+4,C313,Sustainable Systems,Environmental Informatics,13,Thu,10:00,1,3.0,0.3333333333333333
+4,C314,Data Visualization,Environmental Informatics,28,Thu,10:00,1,8.0,0.25
+4,C315,Operations Research,Environmental Informatics,21,Thu,10:00,1,14.0,0.21428571428571427
+4,C316,Information Systems,Environmental Informatics,18,Fri,13:00,1,3.0,0.0
+4,C317,Applied Research Methods,Environmental Informatics,14,Fri,13:00,1,3.0,0.0
+4,C318,Innovation Management,Environmental Informatics,13,Fri,13:00,1,3.0,0.0
+4,C319,Responsible AI,Environmental Informatics,22,Mon,15:00,1,0.0,0.0
+4,C320,Project Studio,Environmental Informatics,16,Mon,15:00,1,0.0,0.0
+4,C401,Intro to Programming,Data Science for Agriculture,28,Tue,10:00,1,29.0,0.13793103448275862
+4,C402,Calculus for Data,Data Science for Agriculture,30,Tue,10:00,1,22.0,0.2727272727272727
+4,C403,Data Fundamentals,Data Science for Agriculture,25,Tue,10:00,1,28.0,0.17857142857142858
+4,C404,Probability & Statistics,Data Science for Agriculture,29,Wed,13:00,1,27.0,0.1111111111111111
+4,C405,Database Systems,Data Science for Agriculture,19,Wed,13:00,1,18.0,0.2777777777777778
+4,C406,Machine Learning,Data Science for Agriculture,23,Wed,13:00,1,13.0,0.15384615384615385
+4,C407,Data Engineering,Data Science for Agriculture,18,Thu,15:00,1,11.0,0.18181818181818182
+4,C408,Applied Optimization,Data Science for Agriculture,26,Thu,15:00,1,26.0,0.15384615384615385
+4,C409,Computer Vision for Crops,Data Science for Agriculture,26,Thu,15:00,1,22.0,0.22727272727272727
+4,C410,Time Series Analytics,Data Science for Agriculture,27,Fri,08:00,1,9.0,0.0
+4,C411,Decision Intelligence,Data Science for Agriculture,14,Fri,08:00,1,15.0,0.2
+4,C412,AI Agriculture Capstone,Data Science for Agriculture,19,Fri,08:00,1,18.0,0.16666666666666666
+4,C413,Sustainable Systems,Data Science for Agriculture,20,Mon,10:00,1,1.0,0.0
+4,C414,Data Visualization,Data Science for Agriculture,25,Mon,10:00,1,5.0,0.0
+4,C415,Operations Research,Data Science for Agriculture,21,Mon,10:00,1,10.0,0.3
+4,C416,Information Systems,Data Science for Agriculture,22,Tue,13:00,1,4.0,0.0
+4,C417,Applied Research Methods,Data Science for Agriculture,27,Tue,13:00,1,9.0,0.2222222222222222
+4,C418,Innovation Management,Data Science for Agriculture,12,Tue,13:00,1,0.0,0.0
+4,C419,Responsible AI,Data Science for Agriculture,15,Wed,15:00,1,0.0,0.0
+4,C420,Project Studio,Data Science for Agriculture,16,Wed,15:00,1,0.0,0.0
+5,C101,Business Mathematics,Agribusiness Analytics,28,Tue,13:00,1,39.0,0.20512820512820512
+5,C102,Introduction to Agribusiness,Agribusiness Analytics,25,Tue,13:00,1,20.0,0.05
+5,C103,Microeconomics,Agribusiness Analytics,33,Tue,13:00,1,24.0,0.16666666666666666
+5,C104,Statistics for Business,Agribusiness Analytics,25,Wed,15:00,1,23.0,0.21739130434782608
+5,C105,Digital Agrimarket,Agribusiness Analytics,25,Wed,15:00,1,29.0,0.06896551724137931
+5,C106,Business Data Analysis,Agribusiness Analytics,30,Wed,15:00,1,23.0,0.21739130434782608
+5,C107,Supply Chain Planning,Agribusiness Analytics,24,Thu,08:00,1,11.0,0.45454545454545453
+5,C108,Agrifood Marketing,Agribusiness Analytics,23,Thu,08:00,1,29.0,0.10344827586206896
+5,C109,Econometrics,Agribusiness Analytics,21,Thu,08:00,1,26.0,0.34615384615384615
+5,C110,Business Intelligence,Agribusiness Analytics,18,Fri,10:00,1,12.0,0.25
+5,C111,Decision Analysis,Agribusiness Analytics,23,Fri,10:00,1,16.0,0.3125
+5,C112,Capstone Analytics,Agribusiness Analytics,22,Fri,10:00,1,25.0,0.32
+5,C113,Sustainable Systems,Agribusiness Analytics,20,Mon,13:00,1,6.0,0.3333333333333333
+5,C114,Data Visualization,Agribusiness Analytics,19,Mon,13:00,1,13.0,0.23076923076923078
+5,C115,Operations Research,Agribusiness Analytics,15,Mon,13:00,1,23.0,0.21739130434782608
+5,C116,Information Systems,Agribusiness Analytics,18,Tue,15:00,1,4.0,0.25
+5,C117,Applied Research Methods,Agribusiness Analytics,12,Tue,15:00,1,10.0,0.3
+5,C118,Innovation Management,Agribusiness Analytics,19,Tue,15:00,1,9.0,0.3333333333333333
+5,C119,Responsible AI,Agribusiness Analytics,23,Wed,08:00,1,2.0,0.0
+5,C120,Project Studio,Agribusiness Analytics,12,Wed,08:00,1,9.0,0.4444444444444444
+5,C201,Applied Mathematics,Agricultural Technology,34,Thu,13:00,1,35.0,0.11428571428571428
+5,C202,Introduction to Food Systems,Agricultural Technology,17,Thu,13:00,1,25.0,0.16
+5,C203,Agricultural Chemistry,Agricultural Technology,24,Thu,13:00,1,22.0,0.2727272727272727
+5,C204,Process Statistics,Agricultural Technology,22,Fri,15:00,1,23.0,0.043478260869565216
+5,C205,Process Automation,Agricultural Technology,24,Fri,15:00,1,22.0,0.13636363636363635
+5,C206,Food Quality Analytics,Agricultural Technology,26,Fri,15:00,1,22.0,0.045454545454545456
+5,C207,Agricultural IoT,Agricultural Technology,34,Mon,08:00,1,15.0,0.2
+5,C208,Process Optimization,Agricultural Technology,23,Mon,08:00,1,22.0,0.2727272727272727
+5,C209,Food Safety Systems,Agricultural Technology,23,Mon,08:00,1,21.0,0.14285714285714285
+5,C210,Quality Control,Agricultural Technology,14,Tue,10:00,1,8.0,0.0
+5,C211,Industrial Data Analytics,Agricultural Technology,15,Tue,10:00,1,28.0,0.17857142857142858
+5,C212,Smart Factory Project,Agricultural Technology,15,Tue,10:00,1,17.0,0.23529411764705882
+5,C213,Sustainable Systems,Agricultural Technology,12,Wed,13:00,1,6.0,0.5
+5,C214,Data Visualization,Agricultural Technology,19,Wed,13:00,1,21.0,0.19047619047619047
+5,C215,Operations Research,Agricultural Technology,17,Wed,13:00,1,15.0,0.2
+5,C216,Information Systems,Agricultural Technology,23,Thu,15:00,1,1.0,0.0
+5,C217,Applied Research Methods,Agricultural Technology,24,Thu,15:00,1,17.0,0.17647058823529413
+5,C218,Innovation Management,Agricultural Technology,12,Thu,15:00,1,11.0,0.18181818181818182
+5,C219,Responsible AI,Agricultural Technology,26,Fri,08:00,1,3.0,0.0
+5,C220,Project Studio,Agricultural Technology,21,Fri,08:00,1,6.0,0.16666666666666666
+5,C301,Quantitative Methods,Environmental Informatics,34,Mon,13:00,1,18.0,0.05555555555555555
+5,C302,Ecology Fundamentals,Environmental Informatics,27,Mon,13:00,1,19.0,0.15789473684210525
+5,C303,GIS Foundations,Environmental Informatics,31,Mon,13:00,1,37.0,0.2972972972972973
+5,C304,Environmental Statistics,Environmental Informatics,31,Tue,15:00,1,31.0,0.1935483870967742
+5,C305,Remote Sensing,Environmental Informatics,35,Tue,15:00,1,26.0,0.11538461538461539
+5,C306,Climate Data Analysis,Environmental Informatics,25,Tue,15:00,1,21.0,0.09523809523809523
+5,C307,Geospatial Programming,Environmental Informatics,25,Wed,08:00,1,7.0,0.2857142857142857
+5,C308,Environmental Modeling,Environmental Informatics,27,Wed,08:00,1,17.0,0.11764705882352941
+5,C309,Spatial Machine Learning,Environmental Informatics,35,Wed,08:00,1,28.0,0.32142857142857145
+5,C310,Earth Observation,Environmental Informatics,26,Thu,10:00,1,15.0,0.26666666666666666
+5,C311,Risk Assessment,Environmental Informatics,13,Thu,10:00,1,17.0,0.29411764705882354
+5,C312,Environmental Analytics Project,Environmental Informatics,21,Thu,10:00,1,27.0,0.2222222222222222
+5,C313,Sustainable Systems,Environmental Informatics,18,Fri,13:00,1,6.0,0.0
+5,C314,Data Visualization,Environmental Informatics,17,Fri,13:00,1,15.0,0.13333333333333333
+5,C315,Operations Research,Environmental Informatics,21,Fri,13:00,1,16.0,0.3125
+5,C316,Information Systems,Environmental Informatics,28,Mon,15:00,1,5.0,0.4
+5,C317,Applied Research Methods,Environmental Informatics,21,Mon,15:00,1,10.0,0.2
+5,C318,Innovation Management,Environmental Informatics,16,Mon,15:00,1,5.0,0.2
+5,C319,Responsible AI,Environmental Informatics,15,Tue,08:00,1,6.0,0.0
+5,C320,Project Studio,Environmental Informatics,21,Tue,08:00,1,3.0,0.0
+5,C401,Intro to Programming,Data Science for Agriculture,29,Wed,13:00,1,33.0,0.21212121212121213
+5,C402,Calculus for Data,Data Science for Agriculture,34,Wed,13:00,1,26.0,0.15384615384615385
+5,C403,Data Fundamentals,Data Science for Agriculture,35,Wed,13:00,1,36.0,0.16666666666666666
+5,C404,Probability & Statistics,Data Science for Agriculture,29,Thu,15:00,1,25.0,0.16
+5,C405,Database Systems,Data Science for Agriculture,31,Thu,15:00,1,29.0,0.2413793103448276
+5,C406,Machine Learning,Data Science for Agriculture,36,Thu,15:00,1,32.0,0.40625
+5,C407,Data Engineering,Data Science for Agriculture,35,Fri,08:00,1,10.0,0.1
+5,C408,Applied Optimization,Data Science for Agriculture,24,Fri,08:00,1,25.0,0.08
+5,C409,Computer Vision for Crops,Data Science for Agriculture,21,Fri,08:00,1,25.0,0.32
+5,C410,Time Series Analytics,Data Science for Agriculture,12,Mon,10:00,1,7.0,0.2857142857142857
+5,C411,Decision Intelligence,Data Science for Agriculture,12,Mon,10:00,1,28.0,0.14285714285714285
+5,C412,AI Agriculture Capstone,Data Science for Agriculture,20,Mon,10:00,1,21.0,0.23809523809523808
+5,C413,Sustainable Systems,Data Science for Agriculture,12,Tue,13:00,1,5.0,0.6
+5,C414,Data Visualization,Data Science for Agriculture,22,Tue,13:00,1,14.0,0.35714285714285715
+5,C415,Operations Research,Data Science for Agriculture,14,Tue,13:00,1,12.0,0.0
+5,C416,Information Systems,Data Science for Agriculture,23,Wed,15:00,1,6.0,0.0
+5,C417,Applied Research Methods,Data Science for Agriculture,22,Wed,15:00,1,12.0,0.25
+5,C418,Innovation Management,Data Science for Agriculture,19,Wed,15:00,1,9.0,0.4444444444444444
+5,C419,Responsible AI,Data Science for Agriculture,21,Thu,08:00,1,0.0,0.0
+5,C420,Project Studio,Data Science for Agriculture,12,Thu,08:00,1,3.0,0.0
+6,C101,Business Mathematics,Agribusiness Analytics,16,Wed,15:00,1,25.0,0.0
+6,C102,Introduction to Agribusiness,Agribusiness Analytics,25,Wed,15:00,1,14.0,0.07142857142857142
+6,C103,Microeconomics,Agribusiness Analytics,30,Wed,15:00,1,23.0,0.08695652173913043
+6,C104,Statistics for Business,Agribusiness Analytics,21,Thu,08:00,1,36.0,0.027777777777777776
+6,C105,Digital Agrimarket,Agribusiness Analytics,31,Thu,08:00,1,27.0,0.037037037037037035
+6,C106,Business Data Analysis,Agribusiness Analytics,31,Thu,08:00,1,33.0,0.24242424242424243
+6,C107,Supply Chain Planning,Agribusiness Analytics,28,Fri,10:00,1,7.0,0.14285714285714285
+6,C108,Agrifood Marketing,Agribusiness Analytics,29,Fri,10:00,1,27.0,0.14814814814814814
+6,C109,Econometrics,Agribusiness Analytics,27,Fri,10:00,1,24.0,0.25
+6,C110,Business Intelligence,Agribusiness Analytics,19,Mon,13:00,1,12.0,0.25
+6,C111,Decision Analysis,Agribusiness Analytics,12,Mon,13:00,1,19.0,0.2631578947368421
+6,C112,Capstone Analytics,Agribusiness Analytics,23,Mon,13:00,1,30.0,0.23333333333333334
+6,C113,Sustainable Systems,Agribusiness Analytics,20,Tue,15:00,1,7.0,0.2857142857142857
+6,C114,Data Visualization,Agribusiness Analytics,21,Tue,15:00,1,31.0,0.3548387096774194
+6,C115,Operations Research,Agribusiness Analytics,14,Tue,15:00,1,32.0,0.1875
+6,C116,Information Systems,Agribusiness Analytics,12,Wed,08:00,1,7.0,0.2857142857142857
+6,C117,Applied Research Methods,Agribusiness Analytics,24,Wed,08:00,1,20.0,0.25
+6,C118,Innovation Management,Agribusiness Analytics,12,Wed,08:00,1,25.0,0.28
+6,C119,Responsible AI,Agribusiness Analytics,16,Thu,10:00,1,9.0,0.0
+6,C120,Project Studio,Agribusiness Analytics,18,Thu,10:00,1,5.0,0.2
+6,C201,Applied Mathematics,Agricultural Technology,29,Fri,15:00,1,27.0,0.07407407407407407
+6,C202,Introduction to Food Systems,Agricultural Technology,29,Fri,15:00,1,27.0,0.18518518518518517
+6,C203,Agricultural Chemistry,Agricultural Technology,28,Fri,15:00,1,22.0,0.3181818181818182
+6,C204,Process Statistics,Agricultural Technology,21,Mon,08:00,1,32.0,0.0
+6,C205,Process Automation,Agricultural Technology,26,Mon,08:00,1,25.0,0.12
+6,C206,Food Quality Analytics,Agricultural Technology,27,Mon,08:00,1,34.0,0.20588235294117646
+6,C207,Agricultural IoT,Agricultural Technology,31,Tue,10:00,1,12.0,0.16666666666666666
+6,C208,Process Optimization,Agricultural Technology,29,Tue,10:00,1,21.0,0.19047619047619047
+6,C209,Food Safety Systems,Agricultural Technology,34,Tue,10:00,1,33.0,0.21212121212121213
+6,C210,Quality Control,Agricultural Technology,22,Wed,13:00,1,12.0,0.08333333333333333
+6,C211,Industrial Data Analytics,Agricultural Technology,12,Wed,13:00,1,34.0,0.08823529411764706
+6,C212,Smart Factory Project,Agricultural Technology,18,Wed,13:00,1,17.0,0.35294117647058826
+6,C213,Sustainable Systems,Agricultural Technology,20,Thu,15:00,1,8.0,0.0
+6,C214,Data Visualization,Agricultural Technology,16,Thu,15:00,1,26.0,0.2692307692307692
+6,C215,Operations Research,Agricultural Technology,26,Thu,15:00,1,22.0,0.2727272727272727
+6,C216,Information Systems,Agricultural Technology,15,Fri,08:00,1,4.0,0.25
+6,C217,Applied Research Methods,Agricultural Technology,12,Fri,08:00,1,18.0,0.16666666666666666
+6,C218,Innovation Management,Agricultural Technology,12,Fri,08:00,1,14.0,0.35714285714285715
+6,C219,Responsible AI,Agricultural Technology,16,Mon,10:00,1,1.0,0.0
+6,C220,Project Studio,Agricultural Technology,16,Mon,10:00,1,14.0,0.07142857142857142
+6,C301,Quantitative Methods,Environmental Informatics,26,Tue,15:00,1,24.0,0.25
+6,C302,Ecology Fundamentals,Environmental Informatics,17,Tue,15:00,1,25.0,0.24
+6,C303,GIS Foundations,Environmental Informatics,28,Tue,15:00,1,24.0,0.08333333333333333
+6,C304,Environmental Statistics,Environmental Informatics,34,Wed,08:00,1,24.0,0.16666666666666666
+6,C305,Remote Sensing,Environmental Informatics,25,Wed,08:00,1,29.0,0.034482758620689655
+6,C306,Climate Data Analysis,Environmental Informatics,31,Wed,08:00,1,25.0,0.16
+6,C307,Geospatial Programming,Environmental Informatics,25,Thu,10:00,1,18.0,0.1111111111111111
+6,C308,Environmental Modeling,Environmental Informatics,24,Thu,10:00,1,37.0,0.13513513513513514
+6,C309,Spatial Machine Learning,Environmental Informatics,35,Thu,10:00,1,21.0,0.19047619047619047
+6,C310,Earth Observation,Environmental Informatics,22,Fri,13:00,1,8.0,0.25
+6,C311,Risk Assessment,Environmental Informatics,23,Fri,13:00,1,25.0,0.32
+6,C312,Environmental Analytics Project,Environmental Informatics,30,Fri,13:00,1,41.0,0.14634146341463414
+6,C313,Sustainable Systems,Environmental Informatics,18,Mon,15:00,1,9.0,0.1111111111111111
+6,C314,Data Visualization,Environmental Informatics,18,Mon,15:00,1,26.0,0.19230769230769232
+6,C315,Operations Research,Environmental Informatics,19,Mon,15:00,1,20.0,0.25
+6,C316,Information Systems,Environmental Informatics,26,Tue,08:00,1,7.0,0.14285714285714285
+6,C317,Applied Research Methods,Environmental Informatics,23,Tue,08:00,1,14.0,0.35714285714285715
+6,C318,Innovation Management,Environmental Informatics,14,Tue,08:00,1,11.0,0.18181818181818182
+6,C319,Responsible AI,Environmental Informatics,14,Wed,10:00,1,4.0,0.0
+6,C320,Project Studio,Environmental Informatics,20,Wed,10:00,1,10.0,0.2
+6,C401,Intro to Programming,Data Science for Agriculture,31,Thu,15:00,1,27.0,0.14814814814814814
+6,C402,Calculus for Data,Data Science for Agriculture,30,Thu,15:00,1,31.0,0.1935483870967742
+6,C403,Data Fundamentals,Data Science for Agriculture,31,Thu,15:00,1,19.0,0.2631578947368421
+6,C404,Probability & Statistics,Data Science for Agriculture,27,Fri,08:00,1,32.0,0.09375
+6,C405,Database Systems,Data Science for Agriculture,31,Fri,08:00,1,22.0,0.3181818181818182
+6,C406,Machine Learning,Data Science for Agriculture,31,Fri,08:00,1,27.0,0.25925925925925924
+6,C407,Data Engineering,Data Science for Agriculture,24,Mon,10:00,1,15.0,0.26666666666666666
+6,C408,Applied Optimization,Data Science for Agriculture,22,Mon,10:00,1,31.0,0.1935483870967742
+6,C409,Computer Vision for Crops,Data Science for Agriculture,29,Mon,10:00,1,28.0,0.2857142857142857
+6,C410,Time Series Analytics,Data Science for Agriculture,16,Tue,13:00,1,14.0,0.21428571428571427
+6,C411,Decision Intelligence,Data Science for Agriculture,12,Tue,13:00,1,27.0,0.37037037037037035
+6,C412,AI Agriculture Capstone,Data Science for Agriculture,22,Tue,13:00,1,20.0,0.3
+6,C413,Sustainable Systems,Data Science for Agriculture,21,Wed,15:00,1,16.0,0.4375
+6,C414,Data Visualization,Data Science for Agriculture,25,Wed,15:00,1,26.0,0.38461538461538464
+6,C415,Operations Research,Data Science for Agriculture,18,Wed,15:00,1,18.0,0.2222222222222222
+6,C416,Information Systems,Data Science for Agriculture,19,Thu,08:00,1,6.0,0.0
+6,C417,Applied Research Methods,Data Science for Agriculture,12,Thu,08:00,1,25.0,0.2
+6,C418,Innovation Management,Data Science for Agriculture,25,Thu,08:00,1,10.0,0.5
+6,C419,Responsible AI,Data Science for Agriculture,22,Fri,10:00,1,5.0,0.2
+6,C420,Project Studio,Data Science for Agriculture,23,Fri,10:00,1,13.0,0.07692307692307693
+7,C101,Business Mathematics,Agribusiness Analytics,27,Thu,08:00,1,13.0,0.07692307692307693
+7,C102,Introduction to Agribusiness,Agribusiness Analytics,28,Thu,08:00,1,14.0,0.35714285714285715
+7,C103,Microeconomics,Agribusiness Analytics,30,Thu,08:00,1,18.0,0.3333333333333333
+7,C104,Statistics for Business,Agribusiness Analytics,24,Fri,10:00,1,21.0,0.23809523809523808
+7,C105,Digital Agrimarket,Agribusiness Analytics,24,Fri,10:00,1,15.0,0.26666666666666666
+7,C106,Business Data Analysis,Agribusiness Analytics,38,Fri,10:00,1,24.0,0.375
+7,C107,Supply Chain Planning,Agribusiness Analytics,30,Mon,13:00,1,11.0,0.18181818181818182
+7,C108,Agrifood Marketing,Agribusiness Analytics,25,Mon,13:00,1,19.0,0.3157894736842105
+7,C109,Econometrics,Agribusiness Analytics,21,Mon,13:00,1,23.0,0.13043478260869565
+7,C110,Business Intelligence,Agribusiness Analytics,12,Tue,15:00,1,22.0,0.045454545454545456
+7,C111,Decision Analysis,Agribusiness Analytics,20,Tue,15:00,1,22.0,0.36363636363636365
+7,C112,Capstone Analytics,Agribusiness Analytics,14,Tue,15:00,1,35.0,0.2857142857142857
+7,C113,Sustainable Systems,Agribusiness Analytics,13,Wed,08:00,1,15.0,0.26666666666666666
+7,C114,Data Visualization,Agribusiness Analytics,17,Wed,08:00,1,39.0,0.3076923076923077
+7,C115,Operations Research,Agribusiness Analytics,20,Wed,08:00,1,31.0,0.22580645161290322
+7,C116,Information Systems,Agribusiness Analytics,25,Thu,10:00,1,13.0,0.15384615384615385
+7,C117,Applied Research Methods,Agribusiness Analytics,14,Thu,10:00,1,32.0,0.21875
+7,C118,Innovation Management,Agribusiness Analytics,15,Thu,10:00,1,22.0,0.22727272727272727
+7,C119,Responsible AI,Agribusiness Analytics,20,Fri,13:00,1,16.0,0.3125
+7,C120,Project Studio,Agribusiness Analytics,16,Fri,13:00,1,15.0,0.2
+7,C201,Applied Mathematics,Agricultural Technology,32,Mon,08:00,1,13.0,0.3076923076923077
+7,C202,Introduction to Food Systems,Agricultural Technology,26,Mon,08:00,1,16.0,0.0625
+7,C203,Agricultural Chemistry,Agricultural Technology,21,Mon,08:00,1,15.0,0.2
+7,C204,Process Statistics,Agricultural Technology,24,Tue,10:00,1,19.0,0.05263157894736842
+7,C205,Process Automation,Agricultural Technology,20,Tue,10:00,1,22.0,0.2727272727272727
+7,C206,Food Quality Analytics,Agricultural Technology,25,Tue,10:00,1,26.0,0.15384615384615385
+7,C207,Agricultural IoT,Agricultural Technology,30,Wed,13:00,1,13.0,0.07692307692307693
+7,C208,Process Optimization,Agricultural Technology,28,Wed,13:00,1,19.0,0.3157894736842105
+7,C209,Food Safety Systems,Agricultural Technology,27,Wed,13:00,1,25.0,0.2
+7,C210,Quality Control,Agricultural Technology,12,Thu,15:00,1,11.0,0.09090909090909091
+7,C211,Industrial Data Analytics,Agricultural Technology,15,Thu,15:00,1,38.0,0.10526315789473684
+7,C212,Smart Factory Project,Agricultural Technology,16,Thu,15:00,1,24.0,0.20833333333333334
+7,C213,Sustainable Systems,Agricultural Technology,20,Fri,08:00,1,18.0,0.2222222222222222
+7,C214,Data Visualization,Agricultural Technology,31,Fri,08:00,1,35.0,0.3142857142857143
+7,C215,Operations Research,Agricultural Technology,15,Fri,08:00,1,41.0,0.24390243902439024
+7,C216,Information Systems,Agricultural Technology,23,Mon,10:00,1,10.0,0.4
+7,C217,Applied Research Methods,Agricultural Technology,13,Mon,10:00,1,22.0,0.2727272727272727
+7,C218,Innovation Management,Agricultural Technology,13,Mon,10:00,1,22.0,0.3181818181818182
+7,C219,Responsible AI,Agricultural Technology,12,Tue,13:00,1,13.0,0.38461538461538464
+7,C220,Project Studio,Agricultural Technology,14,Tue,13:00,1,16.0,0.25
+7,C301,Quantitative Methods,Environmental Informatics,33,Wed,08:00,1,20.0,0.3
+7,C302,Ecology Fundamentals,Environmental Informatics,28,Wed,08:00,1,23.0,0.17391304347826086
+7,C303,GIS Foundations,Environmental Informatics,34,Wed,08:00,1,23.0,0.2608695652173913
+7,C304,Environmental Statistics,Environmental Informatics,25,Thu,10:00,1,13.0,0.3076923076923077
+7,C305,Remote Sensing,Environmental Informatics,33,Thu,10:00,1,23.0,0.34782608695652173
+7,C306,Climate Data Analysis,Environmental Informatics,25,Thu,10:00,1,25.0,0.2
+7,C307,Geospatial Programming,Environmental Informatics,32,Fri,13:00,1,15.0,0.13333333333333333
+7,C308,Environmental Modeling,Environmental Informatics,36,Fri,13:00,1,23.0,0.21739130434782608
+7,C309,Spatial Machine Learning,Environmental Informatics,27,Fri,13:00,1,25.0,0.24
+7,C310,Earth Observation,Environmental Informatics,12,Mon,15:00,1,20.0,0.2
+7,C311,Risk Assessment,Environmental Informatics,27,Mon,15:00,1,23.0,0.21739130434782608
+7,C312,Environmental Analytics Project,Environmental Informatics,14,Mon,15:00,1,35.0,0.22857142857142856
+7,C313,Sustainable Systems,Environmental Informatics,15,Tue,08:00,1,9.0,0.1111111111111111
+7,C314,Data Visualization,Environmental Informatics,17,Tue,08:00,1,25.0,0.2
+7,C315,Operations Research,Environmental Informatics,23,Tue,08:00,1,22.0,0.22727272727272727
+7,C316,Information Systems,Environmental Informatics,22,Wed,10:00,1,10.0,0.2
+7,C317,Applied Research Methods,Environmental Informatics,22,Wed,10:00,1,24.0,0.25
+7,C318,Innovation Management,Environmental Informatics,17,Wed,10:00,1,19.0,0.2631578947368421
+7,C319,Responsible AI,Environmental Informatics,17,Thu,13:00,1,15.0,0.13333333333333333
+7,C320,Project Studio,Environmental Informatics,22,Thu,13:00,1,13.0,0.38461538461538464
+7,C401,Intro to Programming,Data Science for Agriculture,36,Fri,08:00,1,12.0,0.3333333333333333
+7,C402,Calculus for Data,Data Science for Agriculture,22,Fri,08:00,1,16.0,0.1875
+7,C403,Data Fundamentals,Data Science for Agriculture,34,Fri,08:00,1,24.0,0.3333333333333333
+7,C404,Probability & Statistics,Data Science for Agriculture,33,Mon,10:00,1,20.0,0.1
+7,C405,Database Systems,Data Science for Agriculture,31,Mon,10:00,1,27.0,0.37037037037037035
+7,C406,Machine Learning,Data Science for Agriculture,25,Mon,10:00,1,20.0,0.6
+7,C407,Data Engineering,Data Science for Agriculture,29,Tue,13:00,1,20.0,0.15
+7,C408,Applied Optimization,Data Science for Agriculture,30,Tue,13:00,1,18.0,0.16666666666666666
+7,C409,Computer Vision for Crops,Data Science for Agriculture,25,Tue,13:00,1,23.0,0.4782608695652174
+7,C410,Time Series Analytics,Data Science for Agriculture,24,Wed,15:00,1,16.0,0.1875
+7,C411,Decision Intelligence,Data Science for Agriculture,16,Wed,15:00,1,37.0,0.32432432432432434
+7,C412,AI Agriculture Capstone,Data Science for Agriculture,26,Wed,15:00,1,27.0,0.2962962962962963
+7,C413,Sustainable Systems,Data Science for Agriculture,12,Thu,08:00,1,10.0,0.3
+7,C414,Data Visualization,Data Science for Agriculture,12,Thu,08:00,1,33.0,0.36363636363636365
+7,C415,Operations Research,Data Science for Agriculture,12,Thu,08:00,1,39.0,0.358974358974359
+7,C416,Information Systems,Data Science for Agriculture,22,Fri,10:00,1,12.0,0.16666666666666666
+7,C417,Applied Research Methods,Data Science for Agriculture,14,Fri,10:00,1,29.0,0.20689655172413793
+7,C418,Innovation Management,Data Science for Agriculture,14,Fri,10:00,1,21.0,0.42857142857142855
+7,C419,Responsible AI,Data Science for Agriculture,23,Mon,13:00,1,10.0,0.2
+7,C420,Project Studio,Data Science for Agriculture,27,Mon,13:00,1,17.0,0.29411764705882354
+8,C101,Business Mathematics,Agribusiness Analytics,24,Fri,10:00,1,6.0,0.16666666666666666
+8,C102,Introduction to Agribusiness,Agribusiness Analytics,35,Fri,10:00,1,24.0,0.16666666666666666
+8,C103,Microeconomics,Agribusiness Analytics,31,Fri,10:00,1,15.0,0.26666666666666666
+8,C104,Statistics for Business,Agribusiness Analytics,28,Mon,13:00,1,7.0,0.2857142857142857
+8,C105,Digital Agrimarket,Agribusiness Analytics,22,Mon,13:00,1,13.0,0.46153846153846156
+8,C106,Business Data Analysis,Agribusiness Analytics,21,Mon,13:00,1,13.0,0.46153846153846156
+8,C107,Supply Chain Planning,Agribusiness Analytics,28,Tue,15:00,1,17.0,0.23529411764705882
+8,C108,Agrifood Marketing,Agribusiness Analytics,29,Tue,15:00,1,11.0,0.09090909090909091
+8,C109,Econometrics,Agribusiness Analytics,25,Tue,15:00,1,17.0,0.4117647058823529
+8,C110,Business Intelligence,Agribusiness Analytics,13,Wed,08:00,1,19.0,0.05263157894736842
+8,C111,Decision Analysis,Agribusiness Analytics,12,Wed,08:00,1,27.0,0.2962962962962963
+8,C112,Capstone Analytics,Agribusiness Analytics,20,Wed,08:00,1,23.0,0.30434782608695654
+8,C113,Sustainable Systems,Agribusiness Analytics,22,Thu,10:00,1,16.0,0.375
+8,C114,Data Visualization,Agribusiness Analytics,22,Thu,10:00,1,30.0,0.3333333333333333
+8,C115,Operations Research,Agribusiness Analytics,21,Thu,10:00,1,24.0,0.20833333333333334
+8,C116,Information Systems,Agribusiness Analytics,16,Fri,13:00,1,21.0,0.09523809523809523
+8,C117,Applied Research Methods,Agribusiness Analytics,26,Fri,13:00,1,34.0,0.17647058823529413
+8,C118,Innovation Management,Agribusiness Analytics,13,Fri,13:00,1,32.0,0.25
+8,C119,Responsible AI,Agribusiness Analytics,21,Mon,15:00,1,21.0,0.09523809523809523
+8,C120,Project Studio,Agribusiness Analytics,16,Mon,15:00,1,25.0,0.12
+8,C201,Applied Mathematics,Agricultural Technology,22,Tue,10:00,1,11.0,0.09090909090909091
+8,C202,Introduction to Food Systems,Agricultural Technology,25,Tue,10:00,1,15.0,0.06666666666666667
+8,C203,Agricultural Chemistry,Agricultural Technology,31,Tue,10:00,1,16.0,0.3125
+8,C204,Process Statistics,Agricultural Technology,33,Wed,13:00,1,7.0,0.14285714285714285
+8,C205,Process Automation,Agricultural Technology,30,Wed,13:00,1,17.0,0.29411764705882354
+8,C206,Food Quality Analytics,Agricultural Technology,13,Wed,13:00,1,11.0,0.18181818181818182
+8,C207,Agricultural IoT,Agricultural Technology,32,Thu,15:00,1,15.0,0.2
+8,C208,Process Optimization,Agricultural Technology,17,Thu,15:00,1,15.0,0.2
+8,C209,Food Safety Systems,Agricultural Technology,38,Thu,15:00,1,26.0,0.38461538461538464
+8,C210,Quality Control,Agricultural Technology,19,Fri,08:00,1,20.0,0.2
+8,C211,Industrial Data Analytics,Agricultural Technology,19,Fri,08:00,1,15.0,0.13333333333333333
+8,C212,Smart Factory Project,Agricultural Technology,23,Fri,08:00,1,22.0,0.3181818181818182
+8,C213,Sustainable Systems,Agricultural Technology,17,Mon,10:00,1,20.0,0.2
+8,C214,Data Visualization,Agricultural Technology,17,Mon,10:00,1,35.0,0.34285714285714286
+8,C215,Operations Research,Agricultural Technology,16,Mon,10:00,1,29.0,0.20689655172413793
+8,C216,Information Systems,Agricultural Technology,19,Tue,13:00,1,20.0,0.45
+8,C217,Applied Research Methods,Agricultural Technology,19,Tue,13:00,1,33.0,0.21212121212121213
+8,C218,Innovation Management,Agricultural Technology,20,Tue,13:00,1,33.0,0.3333333333333333
+8,C219,Responsible AI,Agricultural Technology,12,Wed,15:00,1,26.0,0.4230769230769231
+8,C220,Project Studio,Agricultural Technology,18,Wed,15:00,1,19.0,0.21052631578947367
+8,C301,Quantitative Methods,Environmental Informatics,20,Thu,10:00,1,19.0,0.5263157894736842
+8,C302,Ecology Fundamentals,Environmental Informatics,42,Thu,10:00,1,11.0,0.09090909090909091
+8,C303,GIS Foundations,Environmental Informatics,32,Thu,10:00,1,17.0,0.29411764705882354
+8,C304,Environmental Statistics,Environmental Informatics,33,Fri,13:00,1,19.0,0.3157894736842105
+8,C305,Remote Sensing,Environmental Informatics,30,Fri,13:00,1,14.0,0.14285714285714285
+8,C306,Climate Data Analysis,Environmental Informatics,31,Fri,13:00,1,25.0,0.44
+8,C307,Geospatial Programming,Environmental Informatics,24,Mon,15:00,1,23.0,0.21739130434782608
+8,C308,Environmental Modeling,Environmental Informatics,32,Mon,15:00,1,14.0,0.2857142857142857
+8,C309,Spatial Machine Learning,Environmental Informatics,32,Mon,15:00,1,18.0,0.1111111111111111
+8,C310,Earth Observation,Environmental Informatics,19,Tue,08:00,1,15.0,0.2
+8,C311,Risk Assessment,Environmental Informatics,22,Tue,08:00,1,17.0,0.11764705882352941
+8,C312,Environmental Analytics Project,Environmental Informatics,24,Tue,08:00,1,18.0,0.4444444444444444
+8,C313,Sustainable Systems,Environmental Informatics,18,Wed,10:00,1,15.0,0.26666666666666666
+8,C314,Data Visualization,Environmental Informatics,13,Wed,10:00,1,30.0,0.16666666666666666
+8,C315,Operations Research,Environmental Informatics,23,Wed,10:00,1,34.0,0.35294117647058826
+8,C316,Information Systems,Environmental Informatics,26,Thu,13:00,1,23.0,0.21739130434782608
+8,C317,Applied Research Methods,Environmental Informatics,12,Thu,13:00,1,31.0,0.1935483870967742
+8,C318,Innovation Management,Environmental Informatics,24,Thu,13:00,1,25.0,0.12
+8,C319,Responsible AI,Environmental Informatics,20,Fri,15:00,1,15.0,0.2
+8,C320,Project Studio,Environmental Informatics,22,Fri,15:00,1,20.0,0.25
+8,C401,Intro to Programming,Data Science for Agriculture,32,Mon,10:00,1,15.0,0.4666666666666667
+8,C402,Calculus for Data,Data Science for Agriculture,23,Mon,10:00,1,17.0,0.058823529411764705
+8,C403,Data Fundamentals,Data Science for Agriculture,30,Mon,10:00,1,13.0,0.15384615384615385
+8,C404,Probability & Statistics,Data Science for Agriculture,33,Tue,13:00,1,6.0,0.0
+8,C405,Database Systems,Data Science for Agriculture,35,Tue,13:00,1,25.0,0.56
+8,C406,Machine Learning,Data Science for Agriculture,32,Tue,13:00,1,16.0,0.375
+8,C407,Data Engineering,Data Science for Agriculture,23,Wed,15:00,1,21.0,0.23809523809523808
+8,C408,Applied Optimization,Data Science for Agriculture,29,Wed,15:00,1,14.0,0.42857142857142855
+8,C409,Computer Vision for Crops,Data Science for Agriculture,27,Wed,15:00,1,20.0,0.55
+8,C410,Time Series Analytics,Data Science for Agriculture,19,Thu,08:00,1,13.0,0.07692307692307693
+8,C411,Decision Intelligence,Data Science for Agriculture,24,Thu,08:00,1,29.0,0.3448275862068966
+8,C412,AI Agriculture Capstone,Data Science for Agriculture,12,Thu,08:00,1,16.0,0.5
+8,C413,Sustainable Systems,Data Science for Agriculture,21,Fri,10:00,1,16.0,0.1875
+8,C414,Data Visualization,Data Science for Agriculture,21,Fri,10:00,1,34.0,0.5294117647058824
+8,C415,Operations Research,Data Science for Agriculture,14,Fri,10:00,1,27.0,0.3333333333333333
+8,C416,Information Systems,Data Science for Agriculture,24,Mon,13:00,1,21.0,0.3333333333333333
+8,C417,Applied Research Methods,Data Science for Agriculture,15,Mon,13:00,1,37.0,0.16216216216216217
+8,C418,Innovation Management,Data Science for Agriculture,19,Mon,13:00,1,31.0,0.2903225806451613
+8,C419,Responsible AI,Data Science for Agriculture,12,Tue,15:00,1,21.0,0.19047619047619047
+8,C420,Project Studio,Data Science for Agriculture,24,Tue,15:00,1,27.0,0.18518518518518517
+9,C101,Business Mathematics,Agribusiness Analytics,23,Mon,13:00,1,,
+9,C102,Introduction to Agribusiness,Agribusiness Analytics,23,Mon,13:00,1,,
+9,C103,Microeconomics,Agribusiness Analytics,30,Mon,13:00,1,,
+9,C104,Statistics for Business,Agribusiness Analytics,15,Tue,15:00,1,,
+9,C105,Digital Agrimarket,Agribusiness Analytics,28,Tue,15:00,1,,
+9,C106,Business Data Analysis,Agribusiness Analytics,28,Tue,15:00,1,,
+9,C107,Supply Chain Planning,Agribusiness Analytics,15,Wed,08:00,1,,
+9,C108,Agrifood Marketing,Agribusiness Analytics,25,Wed,08:00,1,,
+9,C109,Econometrics,Agribusiness Analytics,22,Wed,08:00,1,,
+9,C110,Business Intelligence,Agribusiness Analytics,11,Thu,10:00,1,,
+9,C111,Decision Analysis,Agribusiness Analytics,10,Thu,10:00,1,,
+9,C112,Capstone Analytics,Agribusiness Analytics,19,Thu,10:00,1,,
+9,C113,Sustainable Systems,Agribusiness Analytics,21,Fri,13:00,1,,
+9,C114,Data Visualization,Agribusiness Analytics,11,Fri,13:00,1,,
+9,C115,Operations Research,Agribusiness Analytics,12,Fri,13:00,1,,
+9,C116,Information Systems,Agribusiness Analytics,20,Mon,15:00,1,,
+9,C117,Applied Research Methods,Agribusiness Analytics,27,Mon,15:00,1,,
+9,C118,Innovation Management,Agribusiness Analytics,10,Mon,15:00,1,,
+9,C119,Responsible AI,Agribusiness Analytics,10,Tue,08:00,1,,
+9,C120,Project Studio,Agribusiness Analytics,11,Tue,08:00,1,,
+9,C201,Applied Mathematics,Agricultural Technology,20,Wed,13:00,1,,
+9,C202,Introduction to Food Systems,Agricultural Technology,29,Wed,13:00,1,,
+9,C203,Agricultural Chemistry,Agricultural Technology,20,Wed,13:00,1,,
+9,C204,Process Statistics,Agricultural Technology,34,Thu,15:00,1,,
+9,C205,Process Automation,Agricultural Technology,26,Thu,15:00,1,,
+9,C206,Food Quality Analytics,Agricultural Technology,28,Thu,15:00,1,,
+9,C207,Agricultural IoT,Agricultural Technology,27,Fri,08:00,1,,
+9,C208,Process Optimization,Agricultural Technology,20,Fri,08:00,1,,
+9,C209,Food Safety Systems,Agricultural Technology,18,Fri,08:00,1,,
+9,C210,Quality Control,Agricultural Technology,20,Mon,10:00,1,,
+9,C211,Industrial Data Analytics,Agricultural Technology,22,Mon,10:00,1,,
+9,C212,Smart Factory Project,Agricultural Technology,18,Mon,10:00,1,,
+9,C213,Sustainable Systems,Agricultural Technology,15,Tue,13:00,1,,
+9,C214,Data Visualization,Agricultural Technology,16,Tue,13:00,1,,
+9,C215,Operations Research,Agricultural Technology,17,Tue,13:00,1,,
+9,C216,Information Systems,Agricultural Technology,10,Wed,15:00,1,,
+9,C217,Applied Research Methods,Agricultural Technology,16,Wed,15:00,1,,
+9,C218,Innovation Management,Agricultural Technology,16,Wed,15:00,1,,
+9,C219,Responsible AI,Agricultural Technology,10,Thu,08:00,1,,
+9,C220,Project Studio,Agricultural Technology,10,Thu,08:00,1,,
+9,C301,Quantitative Methods,Environmental Informatics,23,Fri,13:00,1,,
+9,C302,Ecology Fundamentals,Environmental Informatics,15,Fri,13:00,1,,
+9,C303,GIS Foundations,Environmental Informatics,14,Fri,13:00,1,,
+9,C304,Environmental Statistics,Environmental Informatics,16,Mon,15:00,1,,
+9,C305,Remote Sensing,Environmental Informatics,25,Mon,15:00,1,,
+9,C306,Climate Data Analysis,Environmental Informatics,24,Mon,15:00,1,,
+9,C307,Geospatial Programming,Environmental Informatics,25,Tue,08:00,1,,
+9,C308,Environmental Modeling,Environmental Informatics,32,Tue,08:00,1,,
+9,C309,Spatial Machine Learning,Environmental Informatics,27,Tue,08:00,1,,
+9,C310,Earth Observation,Environmental Informatics,22,Wed,10:00,1,,
+9,C311,Risk Assessment,Environmental Informatics,16,Wed,10:00,1,,
+9,C312,Environmental Analytics Project,Environmental Informatics,21,Wed,10:00,1,,
+9,C313,Sustainable Systems,Environmental Informatics,23,Thu,13:00,1,,
+9,C314,Data Visualization,Environmental Informatics,25,Thu,13:00,1,,
+9,C315,Operations Research,Environmental Informatics,15,Thu,13:00,1,,
+9,C316,Information Systems,Environmental Informatics,10,Fri,15:00,1,,
+9,C317,Applied Research Methods,Environmental Informatics,16,Fri,15:00,1,,
+9,C318,Innovation Management,Environmental Informatics,22,Fri,15:00,1,,
+9,C319,Responsible AI,Environmental Informatics,23,Mon,08:00,1,,
+9,C320,Project Studio,Environmental Informatics,16,Mon,08:00,1,,
+9,C401,Intro to Programming,Data Science for Agriculture,26,Tue,13:00,1,,
+9,C402,Calculus for Data,Data Science for Agriculture,31,Tue,13:00,1,,
+9,C403,Data Fundamentals,Data Science for Agriculture,25,Tue,13:00,1,,
+9,C404,Probability & Statistics,Data Science for Agriculture,28,Wed,15:00,1,,
+9,C405,Database Systems,Data Science for Agriculture,28,Wed,15:00,1,,
+9,C406,Machine Learning,Data Science for Agriculture,23,Wed,15:00,1,,
+9,C407,Data Engineering,Data Science for Agriculture,21,Thu,08:00,1,,
+9,C408,Applied Optimization,Data Science for Agriculture,35,Thu,08:00,1,,
+9,C409,Computer Vision for Crops,Data Science for Agriculture,22,Thu,08:00,1,,
+9,C410,Time Series Analytics,Data Science for Agriculture,11,Fri,10:00,1,,
+9,C411,Decision Intelligence,Data Science for Agriculture,15,Fri,10:00,1,,
+9,C412,AI Agriculture Capstone,Data Science for Agriculture,16,Fri,10:00,1,,
+9,C413,Sustainable Systems,Data Science for Agriculture,17,Mon,13:00,1,,
+9,C414,Data Visualization,Data Science for Agriculture,15,Mon,13:00,1,,
+9,C415,Operations Research,Data Science for Agriculture,18,Mon,13:00,1,,
+9,C416,Information Systems,Data Science for Agriculture,23,Tue,15:00,1,,
+9,C417,Applied Research Methods,Data Science for Agriculture,15,Tue,15:00,1,,
+9,C418,Innovation Management,Data Science for Agriculture,16,Tue,15:00,1,,
+9,C419,Responsible AI,Data Science for Agriculture,22,Wed,08:00,1,,
+9,C420,Project Studio,Data Science for Agriculture,11,Wed,08:00,1,,

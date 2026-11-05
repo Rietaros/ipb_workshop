@@ -1,0 +1,81 @@
+term,lecturer_id,program,primary_domain,secondary_domain,max_teaching_sks,other_commitments_sks,available_teaching_sks,availability_status
+9,DSN-01-001,Agribusiness Analytics,Quantitative,Engineering,12,7,2,Limited
+9,DSN-01-002,Agribusiness Analytics,Quantitative,Business,12,5,7,Available
+9,DSN-01-003,Agribusiness Analytics,Computing,Agriculture,12,7,5,Available
+9,DSN-01-004,Agribusiness Analytics,Computing,Business,12,6,6,Available
+9,DSN-01-005,Agribusiness Analytics,Quantitative,Computing,12,5,7,Available
+9,DSN-01-006,Agribusiness Analytics,Business,Computing,12,5,3,Limited
+9,DSN-01-007,Agribusiness Analytics,Quantitative,Computing,12,5,7,Available
+9,DSN-01-008,Agribusiness Analytics,Agriculture,Computing,12,5,7,Available
+9,DSN-01-009,Agribusiness Analytics,Business,Agriculture,12,4,8,Available
+9,DSN-01-010,Agribusiness Analytics,Business,Agriculture,12,3,9,Available
+9,DSN-01-011,Agribusiness Analytics,Quantitative,Engineering,12,5,7,Available
+9,DSN-01-012,Agribusiness Analytics,Business,Agriculture,12,5,7,Available
+9,DSN-01-013,Agribusiness Analytics,Business,Computing,14,6,8,Available
+9,DSN-01-014,Agribusiness Analytics,Computing,Engineering,10,7,3,Limited
+9,DSN-01-015,Agribusiness Analytics,Business,Agriculture,12,6,6,Available
+9,DSN-01-016,Agribusiness Analytics,Computing,Engineering,10,3,7,Available
+9,DSN-01-017,Agribusiness Analytics,Business,Quantitative,12,4,8,Available
+9,DSN-01-018,Agribusiness Analytics,Computing,Quantitative,12,6,6,Available
+9,DSN-01-019,Agribusiness Analytics,Computing,Agriculture,12,5,7,Available
+9,DSN-01-020,Agribusiness Analytics,Computing,Engineering,14,5,9,Available
+9,DSN-02-001,Agricultural Technology,Engineering,Business,12,3,9,Available
+9,DSN-02-002,Agricultural Technology,Quantitative,Engineering,10,5,5,Available
+9,DSN-02-003,Agricultural Technology,Computing,Quantitative,12,6,6,Available
+9,DSN-02-004,Agricultural Technology,Quantitative,Agriculture,10,7,3,Limited
+9,DSN-02-005,Agricultural Technology,Computing,Quantitative,14,5,0,Leave
+9,DSN-02-006,Agricultural Technology,Quantitative,Agriculture,12,3,9,Available
+9,DSN-02-007,Agricultural Technology,Engineering,Computing,12,4,8,Available
+9,DSN-02-008,Agricultural Technology,Agriculture,Computing,12,5,7,Available
+9,DSN-02-009,Agricultural Technology,Quantitative,Agriculture,14,4,10,Available
+9,DSN-02-010,Agricultural Technology,Engineering,Agriculture,10,3,3,Limited
+9,DSN-02-011,Agricultural Technology,Quantitative,Agriculture,10,3,7,Available
+9,DSN-02-012,Agricultural Technology,Business,Quantitative,12,4,8,Available
+9,DSN-02-013,Agricultural Technology,Engineering,Business,12,4,8,Available
+9,DSN-02-014,Agricultural Technology,Quantitative,Engineering,12,4,8,Available
+9,DSN-02-015,Agricultural Technology,Business,Quantitative,14,6,8,Available
+9,DSN-02-016,Agricultural Technology,Agriculture,Engineering,12,4,8,Available
+9,DSN-02-017,Agricultural Technology,Agriculture,Computing,12,4,8,Available
+9,DSN-02-018,Agricultural Technology,Quantitative,Computing,12,5,7,Available
+9,DSN-02-019,Agricultural Technology,Engineering,Business,12,6,6,Available
+9,DSN-02-020,Agricultural Technology,Agriculture,Engineering,10,5,5,Available
+9,DSN-03-001,Data Science for Agriculture,Computing,Quantitative,12,4,8,Available
+9,DSN-03-002,Data Science for Agriculture,Quantitative,Engineering,12,4,8,Available
+9,DSN-03-003,Data Science for Agriculture,Computing,Business,12,4,8,Available
+9,DSN-03-004,Data Science for Agriculture,Quantitative,Engineering,10,5,0,Leave
+9,DSN-03-005,Data Science for Agriculture,Computing,Engineering,10,5,5,Available
+9,DSN-03-006,Data Science for Agriculture,Computing,Engineering,10,5,5,Available
+9,DSN-03-007,Data Science for Agriculture,Computing,Business,14,3,0,Leave
+9,DSN-03-008,Data Science for Agriculture,Quantitative,Agriculture,10,6,4,Limited
+9,DSN-03-009,Data Science for Agriculture,Quantitative,Business,12,4,8,Available
+9,DSN-03-010,Data Science for Agriculture,Computing,Quantitative,12,6,6,Available
+9,DSN-03-011,Data Science for Agriculture,Computing,Engineering,12,4,8,Available
+9,DSN-03-012,Data Science for Agriculture,Agriculture,Engineering,10,7,3,Limited
+9,DSN-03-013,Data Science for Agriculture,Quantitative,Computing,12,7,5,Available
+9,DSN-03-014,Data Science for Agriculture,Computing,Quantitative,10,6,4,Limited
+9,DSN-03-015,Data Science for Agriculture,Quantitative,Engineering,10,4,6,Available
+9,DSN-03-016,Data Science for Agriculture,Quantitative,Engineering,12,7,5,Available
+9,DSN-03-017,Data Science for Agriculture,Quantitative,Engineering,12,4,8,Available
+9,DSN-03-018,Data Science for Agriculture,Quantitative,Computing,14,5,9,Available
+9,DSN-03-019,Data Science for Agriculture,Computing,Engineering,10,6,4,Limited
+9,DSN-03-020,Data Science for Agriculture,Computing,Business,10,7,3,Limited
+9,DSN-04-001,Environmental Informatics,Computing,Quantitative,12,4,8,Available
+9,DSN-04-002,Environmental Informatics,Agriculture,Engineering,10,4,6,Available
+9,DSN-04-003,Environmental Informatics,Computing,Business,14,6,4,Limited
+9,DSN-04-004,Environmental Informatics,Computing,Business,10,6,4,Limited
+9,DSN-04-005,Environmental Informatics,Quantitative,Computing,10,4,6,Available
+9,DSN-04-006,Environmental Informatics,Engineering,Business,12,4,8,Available
+9,DSN-04-007,Environmental Informatics,Computing,Agriculture,12,6,6,Available
+9,DSN-04-008,Environmental Informatics,Computing,Agriculture,10,4,6,Available
+9,DSN-04-009,Environmental Informatics,Business,Agriculture,12,3,9,Available
+9,DSN-04-010,Environmental Informatics,Quantitative,Engineering,10,5,5,Available
+9,DSN-04-011,Environmental Informatics,Computing,Agriculture,12,7,5,Available
+9,DSN-04-012,Environmental Informatics,Quantitative,Computing,14,4,5,Available
+9,DSN-04-013,Environmental Informatics,Quantitative,Agriculture,14,6,8,Available
+9,DSN-04-014,Environmental Informatics,Computing,Agriculture,12,6,6,Available
+9,DSN-04-015,Environmental Informatics,Engineering,Business,12,7,5,Available
+9,DSN-04-016,Environmental Informatics,Quantitative,Computing,14,3,11,Available
+9,DSN-04-017,Environmental Informatics,Quantitative,Agriculture,12,6,6,Available
+9,DSN-04-018,Environmental Informatics,Computing,Business,12,3,9,Available
+9,DSN-04-019,Environmental Informatics,Computing,Business,10,4,6,Available
+9,DSN-04-020,Environmental Informatics,Computing,Business,14,6,8,Available
